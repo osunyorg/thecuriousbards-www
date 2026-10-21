@@ -69,17 +69,38 @@ items:
   target: "/instruments/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Cistre rennaissance
+    slug: cistre-rennaissance
+    target: "/instruments/cistre-rennaissance/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/instruments/cistre-rennaissance"
+    file: content/fr/pages/instruments/cistre-rennaissance/_index.html
+  - title: Cistre baroque
+    slug: cistre-baroque
+    target: "/instruments/cistre-baroque/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/instruments/cistre-baroque"
+    file: content/fr/pages/instruments/cistre-baroque/_index.html
+  - title: Hardingfele
+    slug: hardingfele
+    target: "/instruments/hardingfele/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/instruments/hardingfele"
+    file: content/fr/pages/instruments/hardingfele/_index.html
+  descendants_targets:
+  - "/instruments/cistre-baroque/"
+  - "/instruments/cistre-rennaissance/"
+  - "/instruments/hardingfele/"
   path: "/pages/instruments"
   file: content/fr/pages/instruments/_index.html
-- title: Cistre baroque
-  slug: cistre-baroque
-  target: "/cistre-baroque/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/cistre-baroque"
-  file: content/fr/pages/cistre-baroque/_index.html
 
