@@ -11,3 +11,11 @@ params:
   home:
     head:
       title: site
+  image_sizes:
+    sections:
+      home:
+        hero:
+          additionnal:
+            - rule: "min-width: 1560px"
+              size: 1792
+          desktop: 1400

@@ -1,0 +1,21 @@
+.page__home
+    header
+        .primary-menu
+            .logo
+                &::after
+                    content: '*'
+    @include media-breakpoint-up(desktop)
+        .hero
+            .content
+                padding-top: 0
+                flex-direction: column
+                h1
+                    @include sr-only
+            .hero-image
+                width: stretch
+                margin-left: var(--grid-gutter-negative)
+                margin-right: var(--grid-gutter-negative)
+                order: -1
+            .hero-text
+                margin-top: 0
+                width: auto
