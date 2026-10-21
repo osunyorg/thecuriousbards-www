@@ -19,3 +19,9 @@ params:
             - rule: "min-width: 1560px"
               size: 1792
           desktop: 1400
+  # COMPONENTS
+  components:
+    lightbox:
+      disabled: false
+      in_hero:
+        disabled: true
