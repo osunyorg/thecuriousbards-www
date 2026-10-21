@@ -9,7 +9,7 @@ breadcrumb_title: >-
 url: "/"
 slug: ""
 date: 2026-10-02T12:13:42+02:00
-lastmod: 2026-10-02T12:13:42+02:00
+lastmod: 2026-10-21T12:26:48+02:00
 meta:
   hugo:
     permalink: "/"
@@ -18,7 +18,7 @@ meta:
     slug: ""
   dates:
     created_at: 2026-10-02T12:13:42+02:00
-    updated_at: 2026-10-02T12:13:42+02:00
+    updated_at: 2026-10-21T12:26:48+02:00
     published_at: 2026-10-02T12:13:42+02:00
 search:
   id: "264edc41-9741-4985-b5b4-51102648980a"
@@ -51,18 +51,13 @@ translationKey: communication-website-page-73410ac6-485c-427b-929a-950ca6620b8a
 
 
 children:
-  - "files/_index.html"
   - "posts/_index.html"
   - "events/_index.html"
-  - "exhibitions/_index.html"
-  - "projects/_index.html"
   - "persons/_index.html"
   - "organizations/_index.html"
+  - "pages/instruments/_index.html"
+  - "pages/cistre-baroque/_index.html"
 child_pages:
-  - permalink: "/fichiers/"
-    path: "/files"
-    slug: "fichiers"
-    file: "content/fr/files/_index.html"
   - permalink: "/actualites/"
     path: "/posts"
     slug: "actualites"
@@ -71,14 +66,6 @@ child_pages:
     path: "/events"
     slug: "agenda"
     file: "content/fr/events/_index.html"
-  - permalink: "/expositions/"
-    path: "/exhibitions"
-    slug: "expositions"
-    file: "content/fr/exhibitions/_index.html"
-  - permalink: "/projets/"
-    path: "/projects"
-    slug: "projets"
-    file: "content/fr/projects/_index.html"
   - permalink: "/personnes/"
     path: "/persons"
     slug: "personnes"
@@ -87,6 +74,14 @@ child_pages:
     path: "/organizations"
     slug: "organisations"
     file: "content/fr/organizations/_index.html"
+  - permalink: "/instruments/"
+    path: "/pages/instruments"
+    slug: "instruments"
+    file: "content/fr/pages/instruments/_index.html"
+  - permalink: "/cistre-baroque/"
+    path: "/pages/cistre-baroque"
+    slug: "cistre-baroque"
+    file: "content/fr/pages/cistre-baroque/_index.html"
 
 
 header_cta:
@@ -97,5 +92,49 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: agenda
+
+
+    ranks:
+      base: 2
+      children: 2
+    top:
+      active: false
+
+    data:
+      mode: all
+      kinds:
+        parent: false
+        child: true
+        recurring: true
+      options:
+        categories: true
+        dates: true
+        image: true
+        subtitle: true
+        summary: false
+        status: false
+
+      layout: grid
+
+
+      title_link: "/agenda/"
+      events:
+        - permalink: "/agenda/2026/smith-square-hall/"
+          path: "/events/2026/10/27-20-00-smith-square-hall"
+          slug: "smith-square-hall"
+          file: "content/fr/events/2026/10/27-20-00-smith-square-hall.html"
+          name: >-
+            Smith Square Hall
+        - permalink: "/agenda/2026/ateliers-dethnomusicologie/"
+          path: "/events/2026/11/07-21-00-ateliers-dethnomusicologie"
+          slug: "ateliers-dethnomusicologie"
+          file: "content/fr/events/2026/11/07-21-00-ateliers-dethnomusicologie.html"
+          name: >-
+            Ateliers d’Ethnomusicologie
+
+      quantity: 2
+
 
 ---
