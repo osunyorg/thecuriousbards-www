@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Agenda
+- title: agenda
   slug: agenda
   target: "/agenda/"
   kind: page
@@ -10,43 +10,34 @@ items:
   descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Instruments
-  slug: instruments
-  target: "/instruments/"
+- title: actualités
+  slug: actualites
+  target: "/actualites/"
   kind: page
   new_tab: false
-  children:
-  - title: Cistre rennaissance
-    slug: cistre-rennaissance
-    target: "/instruments/cistre-rennaissance/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/instruments/cistre-rennaissance"
-    file: content/fr/pages/instruments/cistre-rennaissance/_index.html
-  - title: Cistre baroque
-    slug: cistre-baroque
-    target: "/instruments/cistre-baroque/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/instruments/cistre-baroque"
-    file: content/fr/pages/instruments/cistre-baroque/_index.html
-  - title: Hardingfele
-    slug: hardingfele
-    target: "/instruments/hardingfele/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/instruments/hardingfele"
-    file: content/fr/pages/instruments/hardingfele/_index.html
-  descendants_targets:
-  - "/instruments/cistre-baroque/"
-  - "/instruments/cistre-rennaissance/"
-  - "/instruments/hardingfele/"
-  path: "/pages/instruments"
-  file: content/fr/pages/instruments/_index.html
+  children: []
+  descendants_targets: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
+- title: médias
+  slug: medias
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
+- title: histoire
+  slug: histoire
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
+- title: presse
+  slug: presse
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
 
