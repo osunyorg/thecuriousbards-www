@@ -2,6 +2,23 @@ header
     .primary-menu
         .logo
             font-weight: 700
+        .nav-level-1
+            align-items: center
+            li
+                display: flex
+                align-items: center
+                a
+                    display: block
+                &::before
+                    content: '•'
+                    display: inline-block
+                    vertical-align: middle
+                &:first-child, &.nav-search
+                    &::before
+                        display: none
+
 
 .hero
     --color-text-alt: #{$hero-color}
+    img
+        border-radius: $image-border-radius

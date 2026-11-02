@@ -1,0 +1,39 @@
+.events--large
+    .event
+        @include in-page-without-sidebar
+            position: relative
+            .event-content
+                padding-left: columns(1)
+                .event-title,
+                .event-subtitle
+                    @include h2
+                .event-schedule
+                    .event-dates
+                        position: absolute
+                        left: columns(6)
+                        top: 0
+                        bottom: 0
+                        i
+                            font-style: normal
+                            &.date-day
+                                font-size: pxToRem(180)
+                                display: block
+                                position: absolute
+                                bottom: 0
+                                left: 0
+                                transform: translate(-50%)
+                                text-align: center
+                                line-height: 0.7
+                                color: var(--color-random)
+                            &.dateo-month
+                                @include h2
+                                font-weight: bold
+                                transform: rotate(90deg)
+                                transform-origin: 0 0
+                                margin-top: -0.2em
+                                margin-left: 1em
+                                position: absolute
+                                display: block
+                                left: 0
+                                top: 0
+                                white-space: nowrap
