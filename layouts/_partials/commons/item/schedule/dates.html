@@ -1,0 +1,11 @@
+{{ if eq .type "event" }}
+  <p class="custom-event-dates">
+    {{ $date_format := "<i class='date-day'>02</i><i class='date-month'>January</i>" }}
+    {{ safeHTML ( .dates.from.day | time.Format $date_format ) }}
+  </p>
+{{ end }}
+
+{{ $formated_date := partial "commons/item/helpers/GetFormatedDate.html" . }}
+<p class="{{ .type }}-dates">
+  {{ safeHTML $formated_date }}
+</p>
