@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/personnes/index.html"
+to = "/lensemble/"
+
+[[redirects]]
 from = "/cistre-baroque/index.html"
 to = "/instruments/cistre-baroque/"
 
