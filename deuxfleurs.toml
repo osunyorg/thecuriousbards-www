@@ -22,3 +22,7 @@ to = "/lensemble/"
 from = "/cistre-baroque/index.html"
 to = "/instruments/cistre-baroque/"
 
+[[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/lensemble/equipe-editoriale/"
+
