@@ -25,3 +25,6 @@ params:
       disabled: false
       in_hero:
         disabled: true
+  events:
+    share_links:
+      enabled: false
