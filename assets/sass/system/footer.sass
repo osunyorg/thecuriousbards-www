@@ -1,0 +1,13 @@
+footer#document-footer
+    .footer-logo, .logo
+        width: 100%
+        img
+            width: 100%
+    .footer-legals
+        @include media-breakpoint-up(md)
+            &, .nav-legal
+                display: flex
+                align-items: baseline
+                gap: $spacing-3
+                li, p
+                    margin-top: 0 !important

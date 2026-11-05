@@ -1,0 +1,25 @@
+.block-call_to_action
+    --cta-background-color: #{$pink}
+    img
+        border-radius: $image-border-radius
+    @include in-page-without-sidebar
+        .block-content
+            padding-top: var(--grid-gutter)
+            padding-bottom: var(--grid-gutter)
+        .call_to_action--with-image
+            position: relative
+            align-items: center
+            .top
+                position: static
+            > figure
+                grid-column: 7/13
+            .block-title
+                @include vertical-title
+                transform: rotate(-90deg)
+                transform-origin: 0% 100%
+                left: 0
+                left: offset(6)
+                position: absolute
+                bottom: 0
+                margin-left: 0.15em
+                z-index: 2

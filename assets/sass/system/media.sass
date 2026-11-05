@@ -1,3 +1,52 @@
 .media
-    img
-        border-radius: $image-border-radius
+    border-radius: $image-border-radius
+
+// \:root
+//     --base: #f7392b
+//     --bg-blend: multiply
+//     --fg-blend: lighten
+//     --foreground: #16006f
+//     --opacity: 1
+//     --spacing: 1%
+
+// .media
+//     background-color: var(--base)
+//     display: flex
+//     overflow: hidden
+//     position: relative
+//     z-index: 2
+//     &:hover
+//         img
+//             filter: grayscale(100%) contrast(1)
+//             mix-blend-mode: var(--bg-blend)
+//         &::before
+//             opacity: 1
+
+
+// .media
+//     img
+//         filter: grayscale(0) contrast(1)
+//         flex: 1 0 100%
+//         height: 100%
+//         // mix-blend-mode: var(--bg-blend)
+//         object-fit: cover
+//         opacity: var(--opacity)
+//         mix-blend-mode: var(--bg-blend)
+//         position: relative
+//         width: 100%
+//         transition: 0.3s
+
+// .media::before
+//     background-color: var(--foreground)
+//     bottom: 0
+//     content: ''
+//     height: 100%
+//     left: 0
+//     mix-blend-mode: var(--fg-blend)
+//     position: absolute
+//     right: 0
+//     top: 0
+//     width: 100%
+//     z-index: 1
+//     opacity: 0
+//     transition: 0.3s
