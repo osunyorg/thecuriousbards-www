@@ -31,3 +31,19 @@
             .hero-text
                 margin-top: 0
                 width: auto
+
+        .block-pages--large
+            position: relative
+            .top
+                position: static
+                margin: 0
+                .block-title
+                    @include vertical-title
+                    transform-origin: 0% 0%
+                    left: offset(6)
+                    position: absolute
+                    top: 0
+                    margin-left: 1em
+                    z-index: 2
+            .page-content
+                padding-left: columns(1)
