@@ -9,6 +9,20 @@
                 > p
                     margin-top: $spacing-2 !important
                     @include small
+    .block-class-big
+        .text
+            @include lead(true)
+            width: auto !important
+    .block-posts
+        margin-top: 0
+        margin-bottom: 0
+        padding-top: var(--grid-gutter)
+        padding-bottom: var(--grid-gutter)
+        background: $pink
+        color: var(--color-background)
+        *
+            color: var(--color-background)
+
     @include media-breakpoint-down(desktop)
         .hero
             min-height: 0

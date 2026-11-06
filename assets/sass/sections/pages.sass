@@ -12,4 +12,15 @@
     .hero
         h1
             span
-                opacity: 0.8
+                opacity: 0.75
+
+.page-instruments
+    .pages
+        .page
+            .media
+                img
+                    aspect-ratio: auto
+    @include media-breakpoint-up(desktop)
+        &.full-width
+            .pages--grid
+                @include grid(4)
