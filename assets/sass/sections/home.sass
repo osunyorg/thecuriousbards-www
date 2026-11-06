@@ -1,21 +1,28 @@
 .page__home
     .hero
+        h1
+            @include sr-only
         .content
             color: var(--color-text)
-            // background: var(--color-background)
-            // padding: $spacing-2 !important
             border-radius: $image-border-radius
             hgroup
                 > p
                     margin-top: $spacing-2 !important
                     @include small
+    @include media-breakpoint-down(desktop)
+        .hero
+            min-height: 0
+        .hero-text
+            display: none
+        .hero-image
+            padding-left: var(--grid-gutter)
+            padding-right: var(--grid-gutter)
+            padding-bottom: var(--grid-gutter)
     @include media-breakpoint-up(desktop)
         .hero
             .content
                 padding-top: 0
                 flex-direction: column
-                h1
-                    @include sr-only
             .hero-image
                 width: 100%
                 order: -1

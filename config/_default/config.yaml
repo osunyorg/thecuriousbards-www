@@ -28,3 +28,5 @@ params:
   events:
     share_links:
       enabled: false
+  organizations:
+    dark_logo_background: true

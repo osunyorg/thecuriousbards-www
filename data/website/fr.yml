@@ -25,7 +25,51 @@ contents:
         filters: false
 
       organizations:
-      quantity: 0
+        - permalink: "/organisations/fevis/"
+          path: "/organizations/fevis"
+          slug: "fevis"
+          file: "content/fr/organizations/fevis.html"
 
+        - permalink: "/organisations/chateau-soutard/"
+          path: "/organizations/chateau-soutard"
+          slug: "chateau-soutard"
+          file: "content/fr/organizations/chateau-soutard.html"
+
+        - permalink: "/organisations/cite-de-la-voix/"
+          path: "/organizations/cite-de-la-voix"
+          slug: "cite-de-la-voix"
+          file: "content/fr/organizations/cite-de-la-voix.html"
+
+        - permalink: "/organisations/spedidam/"
+          path: "/organizations/spedidam"
+          slug: "spedidam"
+          file: "content/fr/organizations/spedidam.html"
+
+        - permalink: "/organisations/harmonia-mundi/"
+          path: "/organizations/harmonia-mundi"
+          slug: "harmonia-mundi"
+          file: "content/fr/organizations/harmonia-mundi.html"
+
+        - permalink: "/organisations/rema/"
+          path: "/organizations/rema"
+          slug: "rema"
+          file: "content/fr/organizations/rema.html"
+
+        - permalink: "/organisations/cnm/"
+          path: "/organizations/cnm"
+          slug: "cnm"
+          file: "content/fr/organizations/cnm.html"
+
+        - permalink: "/organisations/oara/"
+          path: "/organizations/oara"
+          slug: "oara"
+          file: "content/fr/organizations/oara.html"
+
+        - permalink: "/organisations/adami/"
+          path: "/organizations/adami"
+          slug: "adami"
+          file: "content/fr/organizations/adami.html"
+
+      quantity: 9
 
 

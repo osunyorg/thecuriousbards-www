@@ -1,4 +1,40 @@
+.footer-contents
+    .block-organizations
+        background: var(--color-random)
+        margin-bottom: 0 !important
+        .organizations--grid
+            display: flex
+            justify-content: center
+            align-items: center
+            gap: 0
+            .organization
+                .organization-content
+                    @include sr-only
+                .media
+                    background: transparent
+                    picture
+                        aspect-ratio: auto
+                    img
+                        width: 250px
+                        height: 150px
+                        object-fit: contain
+                        object-position: center
+        @include media-breakpoint-down(md)
+            .organizations--grid
+                flex-wrap: wrap
+                padding-top: pxToRem(50)
+                .organization
+                    .organization-content
+                        @include sr-only
+                    .media
+                        padding: pxToRem(10)
+                        background: transparent
+                        img
+                            width: 70px
+                            height: auto
+
 footer#document-footer
+    padding-top: pxToRem(100)
     .footer-logo, .logo
         width: 100%
         img
