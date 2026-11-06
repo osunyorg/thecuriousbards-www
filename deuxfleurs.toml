@@ -35,10 +35,6 @@ from = "/instruments/cistre-baroque/index.html"
 to = "/lensemble/instruments/cistre-baroque/"
 
 [[redirects]]
-from = "/kontrabasharpa/index.html"
-to = "/lensemble/instruments/kontrabasharpa/"
-
-[[redirects]]
 from = "/instruments/index.html"
 to = "/lensemble/instruments/"
 
