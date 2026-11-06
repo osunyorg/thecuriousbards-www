@@ -4,4 +4,28 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: organizations
+
+
+    ranks:
+      base: 2
+      children: 2
+    top:
+      active: false
+
+    data:
+      layout: grid
+
+      options:
+        link: false
+        logo: true
+        summary: false
+        address: false
+        filters: false
+
+      organizations:
+      quantity: 0
+
+
 
