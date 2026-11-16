@@ -39,6 +39,10 @@ from = "/instruments/index.html"
 to = "/lensemble/instruments/"
 
 [[redirects]]
+from = "/actualites/2026-11-15-passage-sur-france-musique/index.html"
+to = "/actualites/2026-11-16-passage-sur-france-musique/"
+
+[[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
 to = "/lensemble/equipe-editoriale/"
 
