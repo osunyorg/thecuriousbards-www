@@ -26,6 +26,8 @@ params:
       in_hero:
         disabled: true
   events:
+    index:
+      archives: true
     share_links:
       enabled: false
   organizations:

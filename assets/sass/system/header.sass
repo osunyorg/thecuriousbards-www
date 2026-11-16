@@ -9,14 +9,14 @@ header
                 align-items: center
                 a
                     display: block
-                &::before
-                    content: '•'
-                    display: inline-block
-                    vertical-align: middle
-                &:first-child, &.nav-search
+                @include media-breakpoint-up(desktop)
                     &::before
-                        display: none
-
+                        content: '•'
+                        display: inline-block
+                        vertical-align: middle
+                    &:first-child, &.nav-search
+                        &::before
+                            display: none
 
 .hero
     --color-text-alt: #{$hero-color}
@@ -25,3 +25,6 @@ header
     h1
         span
             opacity: 0.8
+
+.breadcrumb-nav li a
+    text-decoration-color: rgba(255,255,255,0.4)
