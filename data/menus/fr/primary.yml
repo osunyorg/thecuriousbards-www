@@ -32,11 +32,13 @@ items:
   file: content/fr/persons/_index.html
 - title: médias
   slug: medias
-  target: ''
-  kind: blank
+  target: "/medias/"
+  kind: page
   new_tab: false
   children: []
   descendants_targets: []
+  path: "/pages/medias"
+  file: content/fr/pages/medias/_index.html
 - title: presse
   slug: presse
   target: ''
