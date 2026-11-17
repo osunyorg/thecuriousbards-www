@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/actualites/2026-11-06-sortie-cd-rebellion/index.html"
+to = "/actualites/2026-11-17-sortie-cd-rebellion/"
+
+[[redirects]]
 from = "/personnes/index.html"
 to = "/lensemble/"
 
