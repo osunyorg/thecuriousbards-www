@@ -1,5 +1,7 @@
 .page__home
     .hero
+        // Réduire la photo en hauteur en fonction de la taille écran
+        //  max-height: 100vh
         h1
             @include sr-only
         .content
@@ -13,7 +15,7 @@
                 background: none
     .block-class-big
         .text
-            @include lead(true)
+            @include h2
             width: auto !important
     .block-posts
         margin-top: 0
