@@ -1,7 +1,5 @@
 .page__home
     .hero
-        // Réduire la photo en hauteur en fonction de la taille écran
-        //  max-height: 100vh
         h1
             @include sr-only
         .content
@@ -44,6 +42,10 @@
             .hero-image
                 width: 100%
                 order: -1
+                picture img
+                    max-height: 70vh
+                    object-fit: cover
+
             .hero-text
                 margin-top: 0
                 width: auto
