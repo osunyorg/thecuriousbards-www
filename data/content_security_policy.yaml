@@ -16,3 +16,5 @@ allowed_domains:
   - "paymenthub.helloassopay.com"
   - "helloasso.com"
   - "www.helloasso.com"
+  - "embed.music.apple.com"
+  - "widget.deezer.com"
