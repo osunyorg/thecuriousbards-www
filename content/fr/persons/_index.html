@@ -9,7 +9,7 @@ breadcrumb_title: >-
 url: "/lensemble/"
 slug: "lensemble"
 date: 2026-10-02T12:13:43+02:00
-lastmod: 2026-11-19T15:54:42+01:00
+lastmod: 2026-11-19T22:48:49+01:00
 meta:
   hugo:
     permalink: "/lensemble/"
@@ -18,7 +18,7 @@ meta:
     slug: "lensemble"
   dates:
     created_at: 2026-10-02T12:13:43+02:00
-    updated_at: 2026-11-19T15:54:42+01:00
+    updated_at: 2026-11-19T22:48:49+01:00
     published_at: 2026-10-02T12:13:43+02:00
 search:
   id: "7ed084b4-8aba-4237-aa20-169a87050ed1"
@@ -144,7 +144,7 @@ contents:
 
 
   - kind: block
-    template: pages
+    template: categories
 
 
     ranks:
@@ -154,41 +154,46 @@ contents:
       active: false
 
     data:
+      layout: grid
+
       options:
+        count: false
         image: true
-        subtitle: true
-        categories: false
-        main_summary: true
         summary: true
 
-      layout: grid
-      pages:
-        - permalink: "/lensemble/programmes/rebellion/"
-          path: "/pages/lensemble/programmes/rebellion"
-          slug: "rebellion"
-          file: "content/fr/pages/lensemble/programmes/rebellion/_index.html"
-          name: >-
-            Rebellion
-        - permalink: "/lensemble/programmes/sublimation/"
-          path: "/pages/lensemble/programmes/sublimation"
-          slug: "sublimation"
-          file: "content/fr/pages/lensemble/programmes/sublimation/_index.html"
-          name: >-
-            Sublimation
-        - permalink: "/lensemble/programmes/indiscretion/"
-          path: "/pages/lensemble/programmes/indiscretion"
-          slug: "indiscretion"
-          file: "content/fr/pages/lensemble/programmes/indiscretion/_index.html"
-          name: >-
-            Indiscretion
-        - permalink: "/lensemble/programmes/extradition/"
-          path: "/pages/lensemble/programmes/extradition"
-          slug: "extradition"
-          file: "content/fr/pages/lensemble/programmes/extradition/_index.html"
-          name: >-
-            Extradition
-
-      quantity: 4
+      category_kind: agenda
+      taxonomy_id: 5b688d7a-04f9-49d2-8faa-b45da59f3c47
+      taxonomy:
+        permalink: "/agenda/programme/"
+        path: "/events_categories/programme"
+        slug: "programme"
+        file: "content/fr/events_categories/programme/_index.html"
+        name: "Programme"
+      categories:
+        - permalink: "/agenda/programme/rebellion/"
+          path: "/events_categories/programme/rebellion"
+          slug: "programme/rebellion"
+          file: "content/fr/events_categories/programme/rebellion/_index.html"
+          name: "Rebellion!"
+          count: 3
+        - permalink: "/agenda/programme/sublimation/"
+          path: "/events_categories/programme/sublimation"
+          slug: "programme/sublimation"
+          file: "content/fr/events_categories/programme/sublimation/_index.html"
+          name: "Sublimation"
+          count: 6
+        - permalink: "/agenda/programme/indiscretion/"
+          path: "/events_categories/programme/indiscretion"
+          slug: "programme/indiscretion"
+          file: "content/fr/events_categories/programme/indiscretion/_index.html"
+          name: "Indiscretion"
+          count: 7
+        - permalink: ""
+          path: "/events_categories/programme/extradition"
+          slug: "programme/extradition"
+          file: "content/fr/events_categories/programme/extradition/_index.html"
+          name: "Extradition"
+          count: 1
 
 
   - kind: block
