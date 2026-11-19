@@ -7,7 +7,7 @@ params:
     active: false
   logo:
     header: /assets/images/logo.svg
-    footer: /assets/images/logo.svg
+    footer: /assets/images/logo-inline.svg
   home:
     head:
       title: site
@@ -30,5 +30,14 @@ params:
       archives: true
     share_links:
       enabled: false
+  posts:
+    single:
+      meta:
+        options:
+          authors: false
+          published_at: true
+          reading_time: false
+          share: true
+          updated_at: false
   organizations:
     dark_logo_background: true

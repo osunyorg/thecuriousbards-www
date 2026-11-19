@@ -1,8 +1,3 @@
-.block-page-instruments
-    .media
-        img
-            aspect-ratio: auto !important
-
 .pages
     .page
         &-subtitle
@@ -14,7 +9,16 @@
             span
                 opacity: 0.75
 
+.pages__section.ancestor-instruments
+    --color-random: #{$violet}
+
+.page-ancestor-instruments,
 .page-instruments
+    --color-random: #{$violet}
+    --color-accent: #{$violet}
+    .media
+        img
+            aspect-ratio: auto !important
     .pages
         .page
             .media
@@ -24,3 +28,8 @@
         &.full-width
             .pages--grid
                 @include grid(4)
+
+.block.block-video.block-video--player
+    @include media-breakpoint-up(desktop)
+        .block-content
+            padding-right: offset(2)
