@@ -48,8 +48,8 @@ items:
   descendants_targets: []
   path: "/pages/boutique"
   file: content/fr/pages/boutique/_index.html
-- title: contact
-  slug: contact
+- title: contacts
+  slug: contacts
   target: "/contact/"
   kind: page
   new_tab: false
