@@ -4,4 +4,4 @@ function fixIframeHeight(iframe) {
   }
 }
 
-document.querySelectorAll('iframe').forEach(fixIframeHeight);
+// document.querySelectorAll('iframe').forEach(fixIframeHeight);
