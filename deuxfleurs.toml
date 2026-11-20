@@ -35,6 +35,10 @@ from = "/cistre-baroque/index.html"
 to = "/lensemble/instruments/cistre-baroque/"
 
 [[redirects]]
+from = "/contact/index.html"
+to = "/contacts/"
+
+[[redirects]]
 from = "/instruments/cistre-baroque/index.html"
 to = "/lensemble/instruments/cistre-baroque/"
 

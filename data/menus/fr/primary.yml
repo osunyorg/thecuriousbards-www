@@ -50,11 +50,11 @@ items:
   file: content/fr/pages/boutique/_index.html
 - title: contacts
   slug: contacts
-  target: "/contact/"
+  target: "/contacts/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/contact"
-  file: content/fr/pages/contact/_index.html
+  path: "/pages/contacts"
+  file: content/fr/pages/contacts/_index.html
 
