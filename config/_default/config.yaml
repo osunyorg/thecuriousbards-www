@@ -1,6 +1,7 @@
 theme: osuny
 _merge: deep
 params:
+  additional_csp: 'unsafe-inline'
   summary:
     position: hero
   search:
