@@ -59,16 +59,17 @@ children:
   - "posts/_index.html"
   - "events/_index.html"
   - "persons/_index.html"
+  - "pages/media/_index.html"
   - "organizations/_index.html"
   - "exhibitions/_index.html"
   - "projects/_index.html"
   - "files/_index.html"
 child_pages:
-  - permalink: ""
+  - permalink: "/en/posts/"
     path: "/posts"
     slug: "posts"
     file: "content/en/posts/_index.html"
-  - permalink: ""
+  - permalink: "/en/agenda/"
     path: "/events"
     slug: "agenda"
     file: "content/en/events/_index.html"
@@ -76,11 +77,15 @@ child_pages:
     path: "/persons"
     slug: "theensemble"
     file: "content/en/persons/_index.html"
+  - permalink: "/en/media/"
+    path: "/pages/media"
+    slug: "media"
+    file: "content/en/pages/media/_index.html"
   - permalink: "/en/organizations/"
     path: "/organizations"
     slug: "organizations"
     file: "content/en/organizations/_index.html"
-  - permalink: ""
+  - permalink: "/en/exhibitions/"
     path: "/exhibitions"
     slug: "exhibitions"
     file: "content/en/exhibitions/_index.html"
@@ -88,7 +93,7 @@ child_pages:
     path: "/projects"
     slug: "projects"
     file: "content/en/projects/_index.html"
-  - permalink: ""
+  - permalink: "/en/files/"
     path: "/files"
     slug: "files"
     file: "content/en/files/_index.html"
@@ -173,6 +178,7 @@ contents:
         value: >-
           View all news
         heading: 2
+        link: "/en/posts/"
 
     data:
       mode: all

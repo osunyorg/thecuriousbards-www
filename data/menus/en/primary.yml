@@ -28,4 +28,13 @@ items:
   descendants_targets: []
   path: "/persons"
   file: content/en/persons/_index.html
+- title: media
+  slug: media
+  target: "/en/media/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/media"
+  file: content/en/pages/media/_index.html
 
