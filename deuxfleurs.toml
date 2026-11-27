@@ -39,10 +39,6 @@ from = "/agenda/2023/les-rencontres-de-calenzana/index.html"
 to = "/fr/agenda/2023/les-rencontres-de-calenzana/"
 
 [[redirects]]
-from = "/fr/lensemble/louis-capeille/index.html"
-to = "/fr/apropos/louis-capeille/"
-
-[[redirects]]
 from = "/agenda/2024/classique-au-vert/index.html"
 to = "/fr/agenda/2024/classique-au-vert/"
 
@@ -85,10 +81,6 @@ to = "/fr/agenda/2018/08/"
 [[redirects]]
 from = "/agenda/2023/10/index.html"
 to = "/fr/agenda/2023/10/"
-
-[[redirects]]
-from = "/fr/lensemble/ilektra-platiopoulou/index.html"
-to = "/fr/apropos/ilektra-platiopoulou/"
 
 [[redirects]]
 from = "/agenda/2017/07/index.html"
@@ -168,7 +160,7 @@ to = "/fr/organisations/adami/"
 
 [[redirects]]
 from = "/lensemble/sarah-dubus/index.html"
-to = "/fr/apropos/sarah-dubus/"
+to = "/fr/lensemble/sarah-dubus/"
 
 [[redirects]]
 from = "/agenda/2020/maison-de-la-culture-de-nevers/index.html"
@@ -476,7 +468,7 @@ to = "/fr/agenda/2018/musica-del-temps-passat/"
 
 [[redirects]]
 from = "/lensemble/pierre-gallon/index.html"
-to = "/fr/apropos/pierre-gallon/"
+to = "/fr/lensemble/pierre-gallon/"
 
 [[redirects]]
 from = "/agenda/2023/promenades-musicales-en-pays-dauge/index.html"
@@ -667,6 +659,10 @@ from = "/agenda/2022/saison-musicale-des-amis-de-saint-guilhem/index.html"
 to = "/fr/agenda/2022/saison-musicale-des-amis-de-saint-guilhem/"
 
 [[redirects]]
+from = "/fr/apropos/ilektra-platiopoulou/index.html"
+to = "/fr/lensemble/ilektra-platiopoulou/"
+
+[[redirects]]
 from = "/agenda/2023/mc2/index.html"
 to = "/fr/agenda/2023/mc2/"
 
@@ -725,10 +721,6 @@ to = "/fr/agenda/2025/festival-la-folia/"
 [[redirects]]
 from = "/agenda/2018/festival-baroque-de-tarentaise/index.html"
 to = "/fr/agenda/2018/festival-baroque-de-tarentaise/"
-
-[[redirects]]
-from = "/fr/lensemble/marine-easzy/index.html"
-to = "/fr/apropos/marine-easzy/"
 
 [[redirects]]
 from = "/organisations/index.html"
@@ -875,12 +867,12 @@ from = "/agenda/2023/theatre-des-4-saisons/index.html"
 to = "/fr/agenda/2023/theatre-des-4-saisons/"
 
 [[redirects]]
-from = "/fr/lensemble/colin-heller/index.html"
-to = "/fr/apropos/colin-heller/"
-
-[[redirects]]
 from = "/agenda/2016/03/index.html"
 to = "/fr/agenda/2016/03/"
+
+[[redirects]]
+from = "/fr/apropos/sarah-van-oudenhove/index.html"
+to = "/fr/lensemble/sarah-van-oudenhove/"
 
 [[redirects]]
 from = "/agenda/2023/abbaye-de-fontmorigny/index.html"
@@ -925,10 +917,6 @@ to = "/fr/agenda/2025/opera-comedie/"
 [[redirects]]
 from = "/agenda/2022/station-ausone/index.html"
 to = "/fr/agenda/2022/station-ausone/"
-
-[[redirects]]
-from = "/fr/lensemble/sarah-van-oudenhove/index.html"
-to = "/fr/apropos/sarah-van-oudenhove/"
 
 [[redirects]]
 from = "/agenda/2022/musique-baroque-en-famenne-ardenne/index.html"
@@ -1052,7 +1040,7 @@ to = "/fr/agenda/2015/12/"
 
 [[redirects]]
 from = "/lensemble/sarah-van-oudenhove/index.html"
-to = "/fr/apropos/sarah-van-oudenhove/"
+to = "/fr/lensemble/sarah-van-oudenhove/"
 
 [[redirects]]
 from = "/agenda/2015/02/index.html"
@@ -1163,10 +1151,6 @@ from = "/agenda/2021/theatre-du-chateau/index.html"
 to = "/fr/agenda/2021/theatre-du-chateau/"
 
 [[redirects]]
-from = "/fr/lensemble/bruno-harle/index.html"
-to = "/fr/apropos/bruno-harle/"
-
-[[redirects]]
 from = "/agenda/2022/03/index.html"
 to = "/fr/agenda/2022/03/"
 
@@ -1212,7 +1196,7 @@ to = "/fr/lensemble/instruments/hardingfele/"
 
 [[redirects]]
 from = "/lensemble/albina-alba/index.html"
-to = "/fr/apropos/albina-alba/"
+to = "/fr/lensemble/albina-alba/"
 
 [[redirects]]
 from = "/agenda/2024/07/index.html"
@@ -1235,8 +1219,12 @@ from = "/agenda/2025/12/index.html"
 to = "/fr/agenda/2025/12/"
 
 [[redirects]]
+from = "/fr/apropos/louis-capeille/index.html"
+to = "/fr/lensemble/louis-capeille/"
+
+[[redirects]]
 from = "/lensemble/bruno-harle/index.html"
-to = "/fr/apropos/bruno-harle/"
+to = "/fr/lensemble/bruno-harle/"
 
 [[redirects]]
 from = "/agenda/2021/festival-dete-de-meymac/index.html"
@@ -1249,10 +1237,6 @@ to = "/fr/agenda/2018/festival-de-ribeauville/"
 [[redirects]]
 from = "/agenda/2026/musik-plus/index.html"
 to = "/fr/agenda/2026/musik-plus/"
-
-[[redirects]]
-from = "/fr/lensemble/marie-lou-kazmierczak/index.html"
-to = "/fr/apropos/marie-lou-kazmierczak/"
 
 [[redirects]]
 from = "/agenda/2022/zomer-van-sint-pieter-leuven/index.html"
@@ -1308,7 +1292,7 @@ to = "/fr/agenda/2023/les-musicales-de-redon/"
 
 [[redirects]]
 from = "/lensemble/marie-lou-kazmierczak/index.html"
-to = "/fr/apropos/marie-lou-kazmierczak/"
+to = "/fr/lensemble/marie-lou-kazmierczak/"
 
 [[redirects]]
 from = "/agenda/2025/festival-de-ribeauville/index.html"
@@ -1391,6 +1375,10 @@ from = "/agenda/2022/hohenloher-kultursommer/index.html"
 to = "/fr/agenda/2022/hohenloher-kultursommer/"
 
 [[redirects]]
+from = "/fr/apropos/marine-easzy/index.html"
+to = "/fr/lensemble/marine-easzy/"
+
+[[redirects]]
 from = "/agenda/2021/lumieres-du-baroque/index.html"
 to = "/fr/agenda/2021/lumieres-du-baroque/"
 
@@ -1401,6 +1389,10 @@ to = "/fr/agenda/2016/centre-musical-international-j-s-bach/"
 [[redirects]]
 from = "/agenda/2016/08/index.html"
 to = "/fr/agenda/2016/08/"
+
+[[redirects]]
+from = "/fr/apropos/colin-heller/index.html"
+to = "/fr/lensemble/colin-heller/"
 
 [[redirects]]
 from = "/instruments/cistre-baroque/index.html"
@@ -1515,10 +1507,6 @@ from = "/lensemble/alix-boivert/actualites/index.html"
 to = "/fr/lensemble/alix-boivert/actualites/"
 
 [[redirects]]
-from = "/fr/lensemble/pierre-gallon/index.html"
-to = "/fr/apropos/pierre-gallon/"
-
-[[redirects]]
 from = "/agenda/2021/04/index.html"
 to = "/fr/agenda/2021/04/"
 
@@ -1599,6 +1587,10 @@ from = "/medias/index.html"
 to = "/fr/medias/"
 
 [[redirects]]
+from = "/fr/apropos/quentin-viannais/index.html"
+to = "/fr/lensemble/quentin-viannais/"
+
+[[redirects]]
 from = "/agenda/2026/index.html"
 to = "/fr/agenda/2026/"
 
@@ -1617,10 +1609,6 @@ to = "/fr/agenda/2023/ete-musical-de-dinan/"
 [[redirects]]
 from = "/agenda/programme/index.html"
 to = "/fr/agenda/programme/"
-
-[[redirects]]
-from = "/fr/lensemble/quentin-viannais/index.html"
-to = "/fr/apropos/quentin-viannais/"
 
 [[redirects]]
 from = "/agenda/2023/12/index.html"
@@ -1649,6 +1637,10 @@ to = "/fr/agenda/2017/festival-toulouse-les-orgues/"
 [[redirects]]
 from = "/lensemble/alix-boivert/index.html"
 to = "/fr/lensemble/alix-boivert/"
+
+[[redirects]]
+from = "/fr/apropos/sarah-dubus/index.html"
+to = "/fr/lensemble/sarah-dubus/"
 
 [[redirects]]
 from = "/agenda/2027/rocher-de-palmer/index.html"
@@ -1688,7 +1680,7 @@ to = "/fr/agenda/2019/festival-via-aeterna-1/"
 
 [[redirects]]
 from = "/lensemble/colin-heller/index.html"
-to = "/fr/apropos/colin-heller/"
+to = "/fr/lensemble/colin-heller/"
 
 [[redirects]]
 from = "/agenda/2021/festival-de-boucard/index.html"
@@ -1759,16 +1751,16 @@ from = "/agenda/2023/jeudis-musicaux/index.html"
 to = "/fr/agenda/2023/jeudis-musicaux/"
 
 [[redirects]]
-from = "/fr/lensemble/albina-alba/index.html"
-to = "/fr/apropos/albina-alba/"
-
-[[redirects]]
 from = "/lensemble/louis-capeille/index.html"
-to = "/fr/apropos/louis-capeille/"
+to = "/fr/lensemble/louis-capeille/"
 
 [[redirects]]
 from = "/agenda/2023/festival-de-musique-en-bourbonnais/index.html"
 to = "/fr/agenda/2023/festival-de-musique-en-bourbonnais/"
+
+[[redirects]]
+from = "/fr/apropos/bruno-harle/index.html"
+to = "/fr/lensemble/bruno-harle/"
 
 [[redirects]]
 from = "/agenda/2015/cite-de-la-voix-1/index.html"
@@ -1904,7 +1896,7 @@ to = "/fr/agenda/2024/concerts-classiques-depinal/"
 
 [[redirects]]
 from = "/lensemble/marine-easzy/index.html"
-to = "/fr/apropos/marine-easzy/"
+to = "/fr/lensemble/marine-easzy/"
 
 [[redirects]]
 from = "/agenda/2024/royal-juillet-musical-de-saint-hubert/index.html"
@@ -1933,6 +1925,10 @@ to = "/fr/fichiers/"
 [[redirects]]
 from = "/agenda/2017/les-concerts-danacreon/index.html"
 to = "/fr/agenda/2017/les-concerts-danacreon/"
+
+[[redirects]]
+from = "/fr/apropos/albina-alba/index.html"
+to = "/fr/lensemble/albina-alba/"
 
 [[redirects]]
 from = "/agenda/2026/la-folle-journee-de-nantes/index.html"
@@ -2075,6 +2071,10 @@ from = "/agenda/2026/05/index.html"
 to = "/fr/agenda/2026/05/"
 
 [[redirects]]
+from = "/fr/apropos/pierre-gallon/index.html"
+to = "/fr/lensemble/pierre-gallon/"
+
+[[redirects]]
 from = "/agenda/2027/concert-sortie-cd/index.html"
 to = "/en/agenda/2027/concert-sortie-cd/"
 
@@ -2084,7 +2084,7 @@ to = "/fr/agenda/2020/07/"
 
 [[redirects]]
 from = "/lensemble/quentin-viannais/index.html"
-to = "/fr/apropos/quentin-viannais/"
+to = "/fr/lensemble/quentin-viannais/"
 
 [[redirects]]
 from = "/agenda/2023/08/index.html"
@@ -2115,8 +2115,8 @@ from = "/agenda/2026/automne-musical-de-spa/index.html"
 to = "/fr/agenda/2026/automne-musical-de-spa/"
 
 [[redirects]]
-from = "/fr/lensemble/sarah-dubus/index.html"
-to = "/fr/apropos/sarah-dubus/"
+from = "/fr/apropos/marie-lou-kazmierczak/index.html"
+to = "/fr/lensemble/marie-lou-kazmierczak/"
 
 [[redirects]]
 from = "/agenda/2024/08/index.html"
