@@ -1,0 +1,31 @@
+---
+title: Menu principal
+items:
+- title: agenda
+  slug: agenda
+  target: "/en/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/events"
+  file: content/en/events/_index.html
+- title: news
+  slug: news
+  target: "/en/posts/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts"
+  file: content/en/posts/_index.html
+- title: about us
+  slug: about-us
+  target: "/en/theensemble/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/persons"
+  file: content/en/persons/_index.html
+

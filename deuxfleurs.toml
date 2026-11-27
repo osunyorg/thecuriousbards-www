@@ -15,12 +15,120 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/agenda/2024/les-parvis-de-lete/index.html"
+to = "/fr/agenda/2024/les-parvis-de-lete/"
+
+[[redirects]]
+from = "/agenda/2019/09/index.html"
+to = "/fr/agenda/2019/09/"
+
+[[redirects]]
+from = "/agenda/2025/festival-novembre-musical-des-voirons/index.html"
+to = "/fr/agenda/2025/festival-novembre-musical-des-voirons/"
+
+[[redirects]]
+from = "/agenda/2018/12/index.html"
+to = "/fr/agenda/2018/12/"
+
+[[redirects]]
+from = "/agenda/2027/08/index.html"
+to = "/fr/agenda/2027/08/"
+
+[[redirects]]
+from = "/agenda/2023/les-rencontres-de-calenzana/index.html"
+to = "/fr/agenda/2023/les-rencontres-de-calenzana/"
+
+[[redirects]]
+from = "/agenda/2024/classique-au-vert/index.html"
+to = "/fr/agenda/2024/classique-au-vert/"
+
+[[redirects]]
+from = "/agenda/2020/festival-vochora/index.html"
+to = "/fr/agenda/2020/festival-vochora/"
+
+[[redirects]]
+from = "/agenda/2026/rheingau-musik-festival/index.html"
+to = "/fr/agenda/2026/rheingau-musik-festival/"
+
+[[redirects]]
+from = "/agenda/2019/07/index.html"
+to = "/fr/agenda/2019/07/"
+
+[[redirects]]
+from = "/agenda/2022/11/index.html"
+to = "/fr/agenda/2022/11/"
+
+[[redirects]]
+from = "/agenda/2026/la-folle-journee-de-nantes-3/index.html"
+to = "/fr/agenda/2026/la-folle-journee-de-nantes-3/"
+
+[[redirects]]
 from = "/organisations/harmonia-mundi/index.html"
 to = "/fr/organisations/harmonia-mundi/"
 
 [[redirects]]
+from = "/agenda/2022/abbaye-de-noirlac/index.html"
+to = "/fr/agenda/2022/abbaye-de-noirlac/"
+
+[[redirects]]
+from = "/agenda/2025/festival-lumieres-du-baroque/index.html"
+to = "/fr/agenda/2025/festival-lumieres-du-baroque/"
+
+[[redirects]]
+from = "/agenda/2018/08/index.html"
+to = "/fr/agenda/2018/08/"
+
+[[redirects]]
+from = "/agenda/2023/10/index.html"
+to = "/fr/agenda/2023/10/"
+
+[[redirects]]
+from = "/agenda/2017/07/index.html"
+to = "/fr/agenda/2017/07/"
+
+[[redirects]]
+from = "/agenda/2023/festival-international-theodore-gouvy/index.html"
+to = "/fr/agenda/2023/festival-international-theodore-gouvy/"
+
+[[redirects]]
+from = "/agenda/2015/cite-de-la-voix-4/index.html"
+to = "/fr/agenda/2015/cite-de-la-voix-4/"
+
+[[redirects]]
+from = "/agenda/2023/festival-musique-ancienne-en-pic-saint-loup/index.html"
+to = "/fr/agenda/2023/festival-musique-ancienne-en-pic-saint-loup/"
+
+[[redirects]]
+from = "/agenda/2017/quartiers-dhiver-du-festival-labeaume-en-musiques-1/index.html"
+to = "/fr/agenda/2017/quartiers-dhiver-du-festival-labeaume-en-musiques-1/"
+
+[[redirects]]
+from = "/agenda/2022/midis-minimes/index.html"
+to = "/fr/agenda/2022/midis-minimes/"
+
+[[redirects]]
+from = "/agenda/2026/academie-bach/index.html"
+to = "/fr/agenda/2026/academie-bach/"
+
+[[redirects]]
 from = "/lensemble/programmes/sublimation/index.html"
 to = "/fr/lensemble/programmes/sublimation/"
+
+[[redirects]]
+from = "/agenda/2019/06/index.html"
+to = "/fr/agenda/2019/06/"
+
+[[redirects]]
+from = "/agenda/2025/01/index.html"
+to = "/fr/agenda/2025/01/"
+
+[[redirects]]
+from = "/agenda/2023/la-maladrerie/index.html"
+to = "/fr/agenda/2023/la-maladrerie/"
+
+[[redirects]]
+from = "/agenda/2019/03/index.html"
+to = "/fr/agenda/2019/03/"
 
 [[redirects]]
 from = "/actualites/2026-11-06-sortie-cd-rebellion/index.html"
@@ -31,6 +139,22 @@ from = "/lensemble/programmes/indiscretion/index.html"
 to = "/fr/lensemble/programmes/indiscretion/"
 
 [[redirects]]
+from = "/agenda/2015/03/index.html"
+to = "/fr/agenda/2015/03/"
+
+[[redirects]]
+from = "/agenda/2024/05/index.html"
+to = "/fr/agenda/2024/05/"
+
+[[redirects]]
+from = "/agenda/programme/indiscretion/index.html"
+to = "/fr/agenda/programme/indiscretion/"
+
+[[redirects]]
+from = "/agenda/2027/abbaye-de-royaumont/index.html"
+to = "/fr/agenda/2027/abbaye-de-royaumont/"
+
+[[redirects]]
 from = "/organisations/adami/index.html"
 to = "/fr/organisations/adami/"
 
@@ -39,72 +163,908 @@ from = "/lensemble/sarah-dubus/index.html"
 to = "/fr/lensemble/sarah-dubus/"
 
 [[redirects]]
+from = "/agenda/2020/maison-de-la-culture-de-nevers/index.html"
+to = "/fr/agenda/2020/maison-de-la-culture-de-nevers/"
+
+[[redirects]]
+from = "/agenda/2025/06/index.html"
+to = "/fr/agenda/2025/06/"
+
+[[redirects]]
+from = "/agenda/2027/les-concerts-en-valognais/index.html"
+to = "/en/agenda/2027/les-concerts-en-valognais/"
+
+[[redirects]]
+from = "/agenda/2022/temple-neuf/index.html"
+to = "/fr/agenda/2022/temple-neuf/"
+
+[[redirects]]
+from = "/agenda/2016/10/index.html"
+to = "/fr/agenda/2016/10/"
+
+[[redirects]]
+from = "/agenda/2024/festival-re-majeure/index.html"
+to = "/fr/agenda/2024/festival-re-majeure/"
+
+[[redirects]]
+from = "/agenda/2021/06/index.html"
+to = "/fr/agenda/2021/06/"
+
+[[redirects]]
+from = "/agenda/2026/musicalocean/index.html"
+to = "/fr/agenda/2026/musicalocean/"
+
+[[redirects]]
+from = "/agenda/2017/05/index.html"
+to = "/fr/agenda/2017/05/"
+
+[[redirects]]
+from = "/agenda/2021/rheingau-musik-festival/index.html"
+to = "/fr/agenda/2021/rheingau-musik-festival/"
+
+[[redirects]]
 from = "/contacts/index.html"
 to = "/fr/contacts/"
+
+[[redirects]]
+from = "/agenda/2026/la-folle-journee-de-nantes-1/index.html"
+to = "/fr/agenda/2026/la-folle-journee-de-nantes-1/"
+
+[[redirects]]
+from = "/agenda/2016/la-courroie-1/index.html"
+to = "/fr/agenda/2016/la-courroie-1/"
+
+[[redirects]]
+from = "/agenda/2015/cite-de-la-voix-6/index.html"
+to = "/fr/agenda/2015/cite-de-la-voix-6/"
+
+[[redirects]]
+from = "/agenda/2022/collegiale-saint-martin/index.html"
+to = "/fr/agenda/2022/collegiale-saint-martin/"
+
+[[redirects]]
+from = "/agenda/2026/festival-musicalete/index.html"
+to = "/fr/agenda/2026/festival-musicalete/"
+
+[[redirects]]
+from = "/agenda/2019/festival-via-aeterna/index.html"
+to = "/fr/agenda/2019/festival-via-aeterna/"
+
+[[redirects]]
+from = "/agenda/2025/elbphilharmonie/index.html"
+to = "/fr/agenda/2025/elbphilharmonie/"
+
+[[redirects]]
+from = "/agenda/2022/festival-musiques-en-ecrins/index.html"
+to = "/fr/agenda/2022/festival-musiques-en-ecrins/"
+
+[[redirects]]
+from = "/agenda/2022/06/index.html"
+to = "/fr/agenda/2022/06/"
+
+[[redirects]]
+from = "/agenda/2025/les-jeudis-musicaux/index.html"
+to = "/fr/agenda/2025/les-jeudis-musicaux/"
+
+[[redirects]]
+from = "/agenda/2023/festival-de-musique-de-sully/index.html"
+to = "/fr/agenda/2023/festival-de-musique-de-sully/"
+
+[[redirects]]
+from = "/agenda/2017/01/index.html"
+to = "/fr/agenda/2017/01/"
 
 [[redirects]]
 from = "/organisations/cite-de-la-voix/index.html"
 to = "/fr/organisations/cite-de-la-voix/"
 
 [[redirects]]
+from = "/agenda/2020/12/index.html"
+to = "/fr/agenda/2020/12/"
+
+[[redirects]]
+from = "/agenda/2020/03/index.html"
+to = "/fr/agenda/2020/03/"
+
+[[redirects]]
+from = "/agenda/2023/stockholm-early-music-festival/index.html"
+to = "/fr/agenda/2023/stockholm-early-music-festival/"
+
+[[redirects]]
+from = "/agenda/2023/festival-du-haut-limousin/index.html"
+to = "/fr/agenda/2023/festival-du-haut-limousin/"
+
+[[redirects]]
+from = "/agenda/2019/rencontres-internationales-du-thoronet/index.html"
+to = "/fr/agenda/2019/rencontres-internationales-du-thoronet/"
+
+[[redirects]]
+from = "/agenda/2024/estivales-de-puisaye/index.html"
+to = "/fr/agenda/2024/estivales-de-puisaye/"
+
+[[redirects]]
+from = "/agenda/2025/internationale-handel-festspiele/index.html"
+to = "/fr/agenda/2025/internationale-handel-festspiele/"
+
+[[redirects]]
+from = "/agenda/2025/festival-zomer-van-sint-pieter/index.html"
+to = "/fr/agenda/2025/festival-zomer-van-sint-pieter/"
+
+[[redirects]]
+from = "/agenda/2025/imperial-palace/index.html"
+to = "/fr/agenda/2025/imperial-palace/"
+
+[[redirects]]
+from = "/agenda/2017/les-musicales/index.html"
+to = "/fr/agenda/2017/les-musicales/"
+
+[[redirects]]
+from = "/agenda/2024/les-musicales-en-barrois/index.html"
+to = "/fr/agenda/2024/les-musicales-en-barrois/"
+
+[[redirects]]
+from = "/agenda/2024/festival-baroque-en-forez/index.html"
+to = "/fr/agenda/2024/festival-baroque-en-forez/"
+
+[[redirects]]
+from = "/agenda/2020/festival-de-sable/index.html"
+to = "/fr/agenda/2020/festival-de-sable/"
+
+[[redirects]]
+from = "/agenda/2018/festival-baroque-de-pontoise/index.html"
+to = "/fr/agenda/2018/festival-baroque-de-pontoise/"
+
+[[redirects]]
+from = "/agenda/2024/06/index.html"
+to = "/fr/agenda/2024/06/"
+
+[[redirects]]
 from = "/actualites/2026-11-16-passage-sur-france-musique/index.html"
 to = "/fr/actualites/2026-11-16-passage-sur-france-musique/"
+
+[[redirects]]
+from = "/agenda/2020/10/index.html"
+to = "/fr/agenda/2020/10/"
+
+[[redirects]]
+from = "/agenda/2025/festival-de-musique-de-toulon-1/index.html"
+to = "/fr/agenda/2025/festival-de-musique-de-toulon-1/"
+
+[[redirects]]
+from = "/agenda/2020/02/index.html"
+to = "/fr/agenda/2020/02/"
+
+[[redirects]]
+from = "/expositions/index.html"
+to = "/fr/expositions/"
+
+[[redirects]]
+from = "/agenda/2021/flaneries-musicales/index.html"
+to = "/fr/agenda/2021/flaneries-musicales/"
+
+[[redirects]]
+from = "/agenda/2019/01/index.html"
+to = "/fr/agenda/2019/01/"
+
+[[redirects]]
+from = "/agenda/2024/ma-region-virtuose-3/index.html"
+to = "/fr/agenda/2024/ma-region-virtuose-3/"
+
+[[redirects]]
+from = "/agenda/2021/les-concerts-danacreon/index.html"
+to = "/fr/agenda/2021/les-concerts-danacreon/"
+
+[[redirects]]
+from = "/agenda/2023/les-nuits-de-septembre/index.html"
+to = "/fr/agenda/2023/les-nuits-de-septembre/"
 
 [[redirects]]
 from = "/organisations/rema/index.html"
 to = "/fr/organisations/rema/"
 
 [[redirects]]
+from = "/agenda/2027/operabordeaux/index.html"
+to = "/en/agenda/2027/operabordeaux/"
+
+[[redirects]]
+from = "/agenda/2022/festival-baroque-de-tarentaise/index.html"
+to = "/fr/agenda/2022/festival-baroque-de-tarentaise/"
+
+[[redirects]]
+from = "/agenda/2026/rheinvokal-festival/index.html"
+to = "/fr/agenda/2026/rheinvokal-festival/"
+
+[[redirects]]
+from = "/agenda/2026/festival-baroque-de-pontoise/index.html"
+to = "/fr/agenda/2026/festival-baroque-de-pontoise/"
+
+[[redirects]]
+from = "/agenda/2022/09/index.html"
+to = "/fr/agenda/2022/09/"
+
+[[redirects]]
+from = "/agenda/2024/04/index.html"
+to = "/fr/agenda/2024/04/"
+
+[[redirects]]
+from = "/agenda/2026/festival-des-quatre-saisons2/index.html"
+to = "/fr/agenda/2026/festival-des-quatre-saisons2/"
+
+[[redirects]]
+from = "/agenda/2020/les-concerts-danacreon/index.html"
+to = "/fr/agenda/2020/les-concerts-danacreon/"
+
+[[redirects]]
+from = "/agenda/2022/festival-darts-sacres-devron/index.html"
+to = "/fr/agenda/2022/festival-darts-sacres-devron/"
+
+[[redirects]]
+from = "/agenda/2023/index.html"
+to = "/fr/agenda/2023/"
+
+[[redirects]]
+from = "/agenda/2020/rencontres-musicales-de-conques/index.html"
+to = "/fr/agenda/2020/rencontres-musicales-de-conques/"
+
+[[redirects]]
+from = "/agenda/2015/theatre/index.html"
+to = "/fr/agenda/2015/theatre/"
+
+[[redirects]]
+from = "/agenda/2025/02/index.html"
+to = "/fr/agenda/2025/02/"
+
+[[redirects]]
+from = "/agenda/2016/02/index.html"
+to = "/fr/agenda/2016/02/"
+
+[[redirects]]
+from = "/agenda/2025/la-folle-journee/index.html"
+to = "/fr/agenda/2025/la-folle-journee/"
+
+[[redirects]]
+from = "/agenda/2021/10/index.html"
+to = "/fr/agenda/2021/10/"
+
+[[redirects]]
+from = "/agenda/2027/follejournee-2/index.html"
+to = "/en/agenda/2027/follejournee-2/"
+
+[[redirects]]
+from = "/agenda/2026/12/index.html"
+to = "/fr/agenda/2026/12/"
+
+[[redirects]]
+from = "/agenda/2025/festival-via-aeterna/index.html"
+to = "/fr/agenda/2025/festival-via-aeterna/"
+
+[[redirects]]
+from = "/agenda/2026/07/index.html"
+to = "/fr/agenda/2026/07/"
+
+[[redirects]]
+from = "/agenda/2023/la-courroie-1/index.html"
+to = "/fr/agenda/2023/la-courroie-1/"
+
+[[redirects]]
+from = "/agenda/2017/la-courroie/index.html"
+to = "/fr/agenda/2017/la-courroie/"
+
+[[redirects]]
+from = "/agenda/2025/festhalle/index.html"
+to = "/fr/agenda/2025/festhalle/"
+
+[[redirects]]
+from = "/agenda/2022/festival-des-milles-musicaux/index.html"
+to = "/fr/agenda/2022/festival-des-milles-musicaux/"
+
+[[redirects]]
+from = "/agenda/2018/musica-del-temps-passat/index.html"
+to = "/fr/agenda/2018/musica-del-temps-passat/"
+
+[[redirects]]
+from = "/lensemble/pierre-gallon/index.html"
+to = "/fr/lensemble/pierre-gallon/"
+
+[[redirects]]
+from = "/agenda/2023/promenades-musicales-en-pays-dauge/index.html"
+to = "/fr/agenda/2023/promenades-musicales-en-pays-dauge/"
+
+[[redirects]]
 from = "/personnes/index.html"
 to = "/lensemble/"
+
+[[redirects]]
+from = "/agenda/2024/01/index.html"
+to = "/fr/agenda/2024/01/"
 
 [[redirects]]
 from = "/organisations/spedidam/index.html"
 to = "/fr/organisations/spedidam/"
 
 [[redirects]]
+from = "/agenda/2018/05/index.html"
+to = "/fr/agenda/2018/05/"
+
+[[redirects]]
 from = "/expositions/archives-expositions/index.html"
 to = "/fr/expositions/archives-expositions/"
+
+[[redirects]]
+from = "/agenda/2020/11/index.html"
+to = "/fr/agenda/2020/11/"
 
 [[redirects]]
 from = "/lensemble/instruments/cistre-baroque/index.html"
 to = "/fr/lensemble/instruments/cistre-baroque/"
 
 [[redirects]]
+from = "/agenda/2021/festivalul-de-muzica-veche/index.html"
+to = "/fr/agenda/2021/festivalul-de-muzica-veche/"
+
+[[redirects]]
+from = "/agenda/2016/theatre-sainte-helene/index.html"
+to = "/fr/agenda/2016/theatre-sainte-helene/"
+
+[[redirects]]
+from = "/agenda/2027/09/index.html"
+to = "/fr/agenda/2027/09/"
+
+[[redirects]]
+from = "/agenda/2025/abbaye-de-gellone/index.html"
+to = "/fr/agenda/2025/abbaye-de-gellone/"
+
+[[redirects]]
+from = "/agenda/2015/cite-de-la-voix/index.html"
+to = "/fr/agenda/2015/cite-de-la-voix/"
+
+[[redirects]]
+from = "/agenda/2020/08/index.html"
+to = "/fr/agenda/2020/08/"
+
+[[redirects]]
+from = "/agenda/2017/ccr-dominicains-de-haute-alsace/index.html"
+to = "/fr/agenda/2017/ccr-dominicains-de-haute-alsace/"
+
+[[redirects]]
+from = "/agenda/2024/theatre-la-barcarolle/index.html"
+to = "/fr/agenda/2024/theatre-la-barcarolle/"
+
+[[redirects]]
+from = "/agenda/2018/02/index.html"
+to = "/fr/agenda/2018/02/"
+
+[[redirects]]
+from = "/agenda/2025/la-folle-journee-de-nantes/index.html"
+to = "/fr/agenda/2025/la-folle-journee-de-nantes/"
+
+[[redirects]]
+from = "/agenda/2019/10/index.html"
+to = "/fr/agenda/2019/10/"
+
+[[redirects]]
+from = "/soutenir/index.html"
+to = "/fr/soutenir/"
+
+[[redirects]]
+from = "/agenda/2026/10/index.html"
+to = "/fr/agenda/2026/10/"
+
+[[redirects]]
+from = "/agenda/2022/academie-bach/index.html"
+to = "/fr/agenda/2022/academie-bach/"
+
+[[redirects]]
+from = "/agenda/2024/salle-aglae-moyne/index.html"
+to = "/fr/agenda/2024/salle-aglae-moyne/"
+
+[[redirects]]
+from = "/agenda/2023/06/index.html"
+to = "/fr/agenda/2023/06/"
+
+[[redirects]]
+from = "/agenda/2027/02/index.html"
+to = "/fr/agenda/2027/02/"
+
+[[redirects]]
+from = "/agenda/2025/les-jeudis-musicaux-1/index.html"
+to = "/fr/agenda/2025/les-jeudis-musicaux-1/"
+
+[[redirects]]
+from = "/agenda/2015/08/index.html"
+to = "/fr/agenda/2015/08/"
+
+[[redirects]]
+from = "/agenda/2027/03/index.html"
+to = "/fr/agenda/2027/03/"
+
+[[redirects]]
+from = "/agenda/2023/la-comete/index.html"
+to = "/fr/agenda/2023/la-comete/"
+
+[[redirects]]
 from = "/instruments/cistre-rennaissance/index.html"
 to = "/fr/lensemble/instruments/cistre-rennaissance/"
+
+[[redirects]]
+from = "/agenda/2023/festival-lumieres-du-baroque/index.html"
+to = "/fr/agenda/2023/festival-lumieres-du-baroque/"
+
+[[redirects]]
+from = "/agenda/2017/11/index.html"
+to = "/fr/agenda/2017/11/"
+
+[[redirects]]
+from = "/agenda/2022/05/index.html"
+to = "/fr/agenda/2022/05/"
+
+[[redirects]]
+from = "/agenda/2024/flaneries-musicales/index.html"
+to = "/fr/agenda/2024/flaneries-musicales/"
+
+[[redirects]]
+from = "/agenda/2022/eglise-saint-germain/index.html"
+to = "/fr/agenda/2022/eglise-saint-germain/"
+
+[[redirects]]
+from = "/agenda/2015/10/index.html"
+to = "/fr/agenda/2015/10/"
+
+[[redirects]]
+from = "/agenda/2015/cour-du-prieure/index.html"
+to = "/fr/agenda/2015/cour-du-prieure/"
+
+[[redirects]]
+from = "/agenda/2023/festival-musicancy/index.html"
+to = "/fr/agenda/2023/festival-musicancy/"
+
+[[redirects]]
+from = "/agenda/2021/cube-521/index.html"
+to = "/fr/agenda/2021/cube-521/"
+
+[[redirects]]
+from = "/agenda/2021/festival-des-festes-baroques-en-terre-des-graves-et-du-sauternais/index.html"
+to = "/fr/agenda/2021/festival-des-festes-baroques-en-terre-des-graves-et-du-sauternais/"
 
 [[redirects]]
 from = "/actualites/2026-11-15-tournage-clip-avec-philippe-katerine/index.html"
 to = "/fr/actualites/2026-11-15-tournage-clip-avec-philippe-katerine/"
 
 [[redirects]]
+from = "/agenda/2022/festival-via-aeterna/index.html"
+to = "/fr/agenda/2022/festival-via-aeterna/"
+
+[[redirects]]
+from = "/agenda/2018/09/index.html"
+to = "/fr/agenda/2018/09/"
+
+[[redirects]]
+from = "/agenda/2026/les-musicales-de-la-vallee-aux-loups/index.html"
+to = "/fr/agenda/2026/les-musicales-de-la-vallee-aux-loups/"
+
+[[redirects]]
+from = "/agenda/2022/festival-musicancy/index.html"
+to = "/fr/agenda/2022/festival-musicancy/"
+
+[[redirects]]
+from = "/agenda/2016/rencontres-musicales/index.html"
+to = "/fr/agenda/2016/rencontres-musicales/"
+
+[[redirects]]
+from = "/agenda/2022/saison-musicale-des-amis-de-saint-guilhem/index.html"
+to = "/fr/agenda/2022/saison-musicale-des-amis-de-saint-guilhem/"
+
+[[redirects]]
+from = "/agenda/2023/mc2/index.html"
+to = "/fr/agenda/2023/mc2/"
+
+[[redirects]]
+from = "/agenda/2023/abbaye-imperiale/index.html"
+to = "/fr/agenda/2023/abbaye-imperiale/"
+
+[[redirects]]
+from = "/agenda/2024/musee-chateau/index.html"
+to = "/fr/agenda/2024/musee-chateau/"
+
+[[redirects]]
+from = "/agenda/2020/06/index.html"
+to = "/fr/agenda/2020/06/"
+
+[[redirects]]
+from = "/agenda/2023/festival-baroque-du-pays-du-mont-blanc/index.html"
+to = "/fr/agenda/2023/festival-baroque-du-pays-du-mont-blanc/"
+
+[[redirects]]
+from = "/agenda/2016/12/index.html"
+to = "/fr/agenda/2016/12/"
+
+[[redirects]]
+from = "/agenda/2027/07/index.html"
+to = "/fr/agenda/2027/07/"
+
+[[redirects]]
+from = "/agenda/2023/moments-musicaux-de-gerberoy/index.html"
+to = "/fr/agenda/2023/moments-musicaux-de-gerberoy/"
+
+[[redirects]]
+from = "/agenda/2025/festival-de-chaillol/index.html"
+to = "/fr/agenda/2025/festival-de-chaillol/"
+
+[[redirects]]
+from = "/agenda/2016/07/index.html"
+to = "/fr/agenda/2016/07/"
+
+[[redirects]]
+from = "/agenda/2018/04/index.html"
+to = "/fr/agenda/2018/04/"
+
+[[redirects]]
+from = "/agenda/2018/cite-du-vin/index.html"
+to = "/fr/agenda/2018/cite-du-vin/"
+
+[[redirects]]
+from = "/agenda/2024/dachauer-schlosskonzerte/index.html"
+to = "/fr/agenda/2024/dachauer-schlosskonzerte/"
+
+[[redirects]]
+from = "/agenda/2025/festival-la-folia/index.html"
+to = "/fr/agenda/2025/festival-la-folia/"
+
+[[redirects]]
+from = "/agenda/2018/festival-baroque-de-tarentaise/index.html"
+to = "/fr/agenda/2018/festival-baroque-de-tarentaise/"
+
+[[redirects]]
 from = "/organisations/index.html"
 to = "/fr/organisations/"
+
+[[redirects]]
+from = "/agenda/2017/09/index.html"
+to = "/fr/agenda/2017/09/"
+
+[[redirects]]
+from = "/agenda/2025/10/index.html"
+to = "/fr/agenda/2025/10/"
+
+[[redirects]]
+from = "/agenda/2017/03/index.html"
+to = "/fr/agenda/2017/03/"
+
+[[redirects]]
+from = "/agenda/2021/09/index.html"
+to = "/fr/agenda/2021/09/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/agenda/2024/festival-au-gre-des-arts/index.html"
+to = "/fr/agenda/2024/festival-au-gre-des-arts/"
+
+[[redirects]]
+from = "/agenda/2023/festival-felx/index.html"
+to = "/fr/agenda/2023/festival-felx/"
+
+[[redirects]]
+from = "/agenda/2027/04/index.html"
+to = "/fr/agenda/2027/04/"
+
+[[redirects]]
+from = "/agenda/2021/07/index.html"
+to = "/fr/agenda/2021/07/"
+
+[[redirects]]
+from = "/agenda/2018/studio-106/index.html"
+to = "/fr/agenda/2018/studio-106/"
+
+[[redirects]]
+from = "/agenda/2023/festival-le-rivage-des-voix/index.html"
+to = "/fr/agenda/2023/festival-le-rivage-des-voix/"
+
+[[redirects]]
+from = "/agenda/2023/salle-cortot/index.html"
+to = "/fr/agenda/2023/salle-cortot/"
+
+[[redirects]]
+from = "/agenda/2021/les-nouvelles-saisons/index.html"
+to = "/fr/agenda/2021/les-nouvelles-saisons/"
+
+[[redirects]]
+from = "/agenda/2022/les-musicales-de-mortagne-et-du-perche/index.html"
+to = "/fr/agenda/2022/les-musicales-de-mortagne-et-du-perche/"
+
+[[redirects]]
+from = "/agenda/2020/festival-au-gre-des-arts-1/index.html"
+to = "/fr/agenda/2020/festival-au-gre-des-arts-1/"
+
+[[redirects]]
+from = "/agenda/2025/chateau/index.html"
+to = "/fr/agenda/2025/chateau/"
+
+[[redirects]]
+from = "/agenda/2015/11/index.html"
+to = "/fr/agenda/2015/11/"
+
+[[redirects]]
+from = "/agenda/2016/festival-seviqc-brezice-1/index.html"
+to = "/fr/agenda/2016/festival-seviqc-brezice-1/"
 
 [[redirects]]
 from = "/instruments/hardingfele/index.html"
 to = "/fr/lensemble/instruments/hardingfele/"
 
 [[redirects]]
+from = "/agenda/2015/cite-de-la-voix-5/index.html"
+to = "/fr/agenda/2015/cite-de-la-voix-5/"
+
+[[redirects]]
+from = "/agenda/2026/le-miroir/index.html"
+to = "/fr/agenda/2026/le-miroir/"
+
+[[redirects]]
+from = "/agenda/programme/sublimation/index.html"
+to = "/fr/agenda/programme/sublimation/"
+
+[[redirects]]
+from = "/agenda/2024/la-folle-journee-1/index.html"
+to = "/fr/agenda/2024/la-folle-journee-1/"
+
+[[redirects]]
+from = "/agenda/2017/quartiers-dhiver-du-festival-labeaume-en-musiques/index.html"
+to = "/fr/agenda/2017/quartiers-dhiver-du-festival-labeaume-en-musiques/"
+
+[[redirects]]
+from = "/agenda/2024/ma-region-virtuose/index.html"
+to = "/fr/agenda/2024/ma-region-virtuose/"
+
+[[redirects]]
+from = "/agenda/2025/belledonne-trad-festival/index.html"
+to = "/fr/agenda/2025/belledonne-trad-festival/"
+
+[[redirects]]
+from = "/agenda/2016/04/index.html"
+to = "/fr/agenda/2016/04/"
+
+[[redirects]]
+from = "/agenda/2024/index.html"
+to = "/fr/agenda/2024/"
+
+[[redirects]]
+from = "/agenda/2026/la-folle-journee-de-nantes-en-region-1/index.html"
+to = "/fr/agenda/2026/la-folle-journee-de-nantes-en-region-1/"
+
+[[redirects]]
+from = "/agenda/2025/festival-de-chaillol-1/index.html"
+to = "/fr/agenda/2025/festival-de-chaillol-1/"
+
+[[redirects]]
+from = "/agenda/2023/03/index.html"
+to = "/fr/agenda/2023/03/"
+
+[[redirects]]
+from = "/agenda/2021/salle-gramont/index.html"
+to = "/fr/agenda/2021/salle-gramont/"
+
+[[redirects]]
+from = "/agenda/2022/abbaye-de-vaucelle/index.html"
+to = "/fr/agenda/2022/abbaye-de-vaucelle/"
+
+[[redirects]]
+from = "/agenda/2019/index.html"
+to = "/fr/agenda/2019/"
+
+[[redirects]]
+from = "/agenda/2023/theatre-des-4-saisons/index.html"
+to = "/fr/agenda/2023/theatre-des-4-saisons/"
+
+[[redirects]]
+from = "/agenda/2016/03/index.html"
+to = "/fr/agenda/2016/03/"
+
+[[redirects]]
+from = "/agenda/2023/abbaye-de-fontmorigny/index.html"
+to = "/fr/agenda/2023/abbaye-de-fontmorigny/"
+
+[[redirects]]
+from = "/agenda/2027/ma-festival/index.html"
+to = "/en/agenda/2027/ma-festival/"
+
+[[redirects]]
+from = "/agenda/2017/08/index.html"
+to = "/fr/agenda/2017/08/"
+
+[[redirects]]
+from = "/agenda/2026/la-folle-journee-de-nantes-en-region/index.html"
+to = "/fr/agenda/2026/la-folle-journee-de-nantes-en-region/"
+
+[[redirects]]
+from = "/agenda/2016/festival-au-gre-des-arts/index.html"
+to = "/fr/agenda/2016/festival-au-gre-des-arts/"
+
+[[redirects]]
+from = "/agenda/2026/au-gre-des-arts/index.html"
+to = "/fr/agenda/2026/au-gre-des-arts/"
+
+[[redirects]]
+from = "/agenda/2019/11/index.html"
+to = "/fr/agenda/2019/11/"
+
+[[redirects]]
+from = "/agenda/2018/01/index.html"
+to = "/fr/agenda/2018/01/"
+
+[[redirects]]
+from = "/agenda/2024/festival-perigord-noir/index.html"
+to = "/fr/agenda/2024/festival-perigord-noir/"
+
+[[redirects]]
+from = "/agenda/2025/opera-comedie/index.html"
+to = "/fr/agenda/2025/opera-comedie/"
+
+[[redirects]]
+from = "/agenda/2022/station-ausone/index.html"
+to = "/fr/agenda/2022/station-ausone/"
+
+[[redirects]]
+from = "/agenda/2022/musique-baroque-en-famenne-ardenne/index.html"
+to = "/fr/agenda/2022/musique-baroque-en-famenne-ardenne/"
+
+[[redirects]]
+from = "/agenda/2025/festival-de-musique-de-toulon-1-1/index.html"
+to = "/fr/agenda/2025/festival-de-musique-de-toulon-1-1/"
+
+[[redirects]]
+from = "/agenda/2016/la-courroie/index.html"
+to = "/fr/agenda/2016/la-courroie/"
+
+[[redirects]]
 from = "/lensemble/equipe-editoriale/index.html"
 to = "/fr/lensemble/equipe-editoriale/"
+
+[[redirects]]
+from = "/agenda/2019/08/index.html"
+to = "/fr/agenda/2019/08/"
+
+[[redirects]]
+from = "/agenda/2017/festival-baroque-du-pays-du-mont-blanc/index.html"
+to = "/fr/agenda/2017/festival-baroque-du-pays-du-mont-blanc/"
+
+[[redirects]]
+from = "/agenda/2027/ma-festival-2/index.html"
+to = "/en/agenda/2027/ma-festival-2/"
+
+[[redirects]]
+from = "/agenda/2022/02/index.html"
+to = "/fr/agenda/2022/02/"
+
+[[redirects]]
+from = "/agenda/2018/academie-bach/index.html"
+to = "/fr/agenda/2018/academie-bach/"
+
+[[redirects]]
+from = "/agenda/2017/02/index.html"
+to = "/fr/agenda/2017/02/"
+
+[[redirects]]
+from = "/agenda/2021/03/index.html"
+to = "/fr/agenda/2021/03/"
 
 [[redirects]]
 from = "/politique-de-confidentialite/index.html"
 to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
+from = "/agenda/2015/04/index.html"
+to = "/fr/agenda/2015/04/"
+
+[[redirects]]
+from = "/agenda/2027/05/index.html"
+to = "/fr/agenda/2027/05/"
+
+[[redirects]]
+from = "/agenda/programme/evocation/index.html"
+to = "/fr/agenda/programme/evocation/"
+
+[[redirects]]
+from = "/agenda/2025/scene-ella-fitzgerald/index.html"
+to = "/fr/agenda/2025/scene-ella-fitzgerald/"
+
+[[redirects]]
+from = "/agenda/2025/les-musicales-du-golfe/index.html"
+to = "/fr/agenda/2025/les-musicales-du-golfe/"
+
+[[redirects]]
+from = "/agenda/2027/01/index.html"
+to = "/fr/agenda/2027/01/"
+
+[[redirects]]
+from = "/agenda/2015/cite-de-la-voix-2/index.html"
+to = "/fr/agenda/2015/cite-de-la-voix-2/"
+
+[[redirects]]
+from = "/agenda/2015/07/index.html"
+to = "/fr/agenda/2015/07/"
+
+[[redirects]]
+from = "/agenda/2019/02/index.html"
+to = "/fr/agenda/2019/02/"
+
+[[redirects]]
+from = "/agenda/2023/les-riches-heures-musicales/index.html"
+to = "/fr/agenda/2023/les-riches-heures-musicales/"
+
+[[redirects]]
+from = "/agenda/2025/festival-des-midis-minimes/index.html"
+to = "/fr/agenda/2025/festival-des-midis-minimes/"
+
+[[redirects]]
+from = "/agenda/2023/05/index.html"
+to = "/fr/agenda/2023/05/"
+
+[[redirects]]
+from = "/agenda/2026/festival-baroque-de-tarentaise/index.html"
+to = "/fr/agenda/2026/festival-baroque-de-tarentaise/"
+
+[[redirects]]
+from = "/agenda/2024/midi-minimes/index.html"
+to = "/fr/agenda/2024/midi-minimes/"
+
+[[redirects]]
+from = "/agenda/2023/festival-musicancy-1/index.html"
+to = "/fr/agenda/2023/festival-musicancy-1/"
+
+[[redirects]]
+from = "/agenda/2027/dachauer-schlosskonzerte/index.html"
+to = "/en/agenda/2027/dachauer-schlosskonzerte/"
+
+[[redirects]]
+from = "/agenda/2018/conservatoire-du-grand-avignon/index.html"
+to = "/fr/agenda/2018/conservatoire-du-grand-avignon/"
+
+[[redirects]]
+from = "/agenda/2015/12/index.html"
+to = "/fr/agenda/2015/12/"
+
+[[redirects]]
 from = "/lensemble/sarah-van-oudenhove/index.html"
 to = "/fr/lensemble/sarah-van-oudenhove/"
+
+[[redirects]]
+from = "/agenda/2015/02/index.html"
+to = "/fr/agenda/2015/02/"
+
+[[redirects]]
+from = "/agenda/2015/06/index.html"
+to = "/fr/agenda/2015/06/"
+
+[[redirects]]
+from = "/agenda/2019/05/index.html"
+to = "/fr/agenda/2019/05/"
+
+[[redirects]]
+from = "/agenda/2027/11/index.html"
+to = "/fr/agenda/2027/11/"
 
 [[redirects]]
 from = "/actualites/2026-11-17-sortie-cd-rebellion/index.html"
 to = "/fr/actualites/2026-11-17-sortie-cd-rebellion/"
 
 [[redirects]]
+from = "/agenda/2025/festival-les-supercheries/index.html"
+to = "/fr/agenda/2025/festival-les-supercheries/"
+
+[[redirects]]
 from = "/cistre-baroque/index.html"
 to = "/fr/lensemble/instruments/cistre-baroque/"
+
+[[redirects]]
+from = "/agenda/2022/festival-de-lete-mosan/index.html"
+to = "/fr/agenda/2022/festival-de-lete-mosan/"
+
+[[redirects]]
+from = "/agenda/2020/festival-1001-notes-en-limousin-1/index.html"
+to = "/fr/agenda/2020/festival-1001-notes-en-limousin-1/"
 
 [[redirects]]
 from = "/boutique/index.html"
@@ -115,8 +1075,104 @@ from = "/organisations/fevis/index.html"
 to = "/fr/organisations/fevis/"
 
 [[redirects]]
+from = "/agenda/2024/11/index.html"
+to = "/fr/agenda/2024/11/"
+
+[[redirects]]
+from = "/agenda/2027/festival-international-harpe-en-avesnois/index.html"
+to = "/en/agenda/2027/festival-international-harpe-en-avesnois/"
+
+[[redirects]]
+from = "/agenda/2026/02/index.html"
+to = "/fr/agenda/2026/02/"
+
+[[redirects]]
+from = "/agenda/2022/musica-antica-a-magnano-1/index.html"
+to = "/fr/agenda/2022/musica-antica-a-magnano-1/"
+
+[[redirects]]
+from = "/agenda/2025/festival-de-musique-de-toulon/index.html"
+to = "/fr/agenda/2025/festival-de-musique-de-toulon/"
+
+[[redirects]]
+from = "/agenda/2016/festival-seviqc-brezice/index.html"
+to = "/fr/agenda/2016/festival-seviqc-brezice/"
+
+[[redirects]]
+from = "/agenda/2024/les-arts-renaissants/index.html"
+to = "/fr/agenda/2024/les-arts-renaissants/"
+
+[[redirects]]
 from = "/contact/index.html"
 to = "/fr/contacts/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/agenda/2021/passauer-konzertwinter/index.html"
+to = "/fr/agenda/2021/passauer-konzertwinter/"
+
+[[redirects]]
+from = "/agenda/2024/02/index.html"
+to = "/fr/agenda/2024/02/"
+
+[[redirects]]
+from = "/agenda/2023/abbaye-nouvelle/index.html"
+to = "/fr/agenda/2023/abbaye-nouvelle/"
+
+[[redirects]]
+from = "/agenda/2021/05/index.html"
+to = "/fr/agenda/2021/05/"
+
+[[redirects]]
+from = "/agenda/2025/embaroquement-immediat/index.html"
+to = "/fr/agenda/2025/embaroquement-immediat/"
+
+[[redirects]]
+from = "/agenda/2021/theatre-du-chateau/index.html"
+to = "/fr/agenda/2021/theatre-du-chateau/"
+
+[[redirects]]
+from = "/agenda/2022/03/index.html"
+to = "/fr/agenda/2022/03/"
+
+[[redirects]]
+from = "/agenda/2027/musee-de-la-musique/index.html"
+to = "/en/agenda/2027/musee-de-la-musique/"
+
+[[redirects]]
+from = "/agenda/2016/the-coffee-factory/index.html"
+to = "/fr/agenda/2016/the-coffee-factory/"
+
+[[redirects]]
+from = "/agenda/2026/saison-dom-remi-carre/index.html"
+to = "/fr/agenda/2026/saison-dom-remi-carre/"
+
+[[redirects]]
+from = "/agenda/2020/04/index.html"
+to = "/fr/agenda/2020/04/"
+
+[[redirects]]
+from = "/agenda/2024/09/index.html"
+to = "/fr/agenda/2024/09/"
+
+[[redirects]]
+from = "/agenda/2025/03/index.html"
+to = "/fr/agenda/2025/03/"
+
+[[redirects]]
+from = "/agenda/2025/amia/index.html"
+to = "/fr/agenda/2025/amia/"
+
+[[redirects]]
+from = "/agenda/2019/04/index.html"
+to = "/fr/agenda/2019/04/"
+
+[[redirects]]
+from = "/agenda/2018/03/index.html"
+to = "/fr/agenda/2018/03/"
 
 [[redirects]]
 from = "/lensemble/instruments/hardingfele/index.html"
@@ -127,28 +1183,252 @@ from = "/lensemble/albina-alba/index.html"
 to = "/fr/lensemble/albina-alba/"
 
 [[redirects]]
+from = "/agenda/2024/07/index.html"
+to = "/fr/agenda/2024/07/"
+
+[[redirects]]
+from = "/agenda/2025/petit-festival-son-ar-mein/index.html"
+to = "/fr/agenda/2025/petit-festival-son-ar-mein/"
+
+[[redirects]]
+from = "/agenda/2023/abbaye-de-montmajour/index.html"
+to = "/fr/agenda/2023/abbaye-de-montmajour/"
+
+[[redirects]]
+from = "/agenda/2024/10/index.html"
+to = "/fr/agenda/2024/10/"
+
+[[redirects]]
+from = "/agenda/2025/12/index.html"
+to = "/fr/agenda/2025/12/"
+
+[[redirects]]
 from = "/lensemble/bruno-harle/index.html"
 to = "/fr/lensemble/bruno-harle/"
+
+[[redirects]]
+from = "/agenda/2021/festival-dete-de-meymac/index.html"
+to = "/fr/agenda/2021/festival-dete-de-meymac/"
+
+[[redirects]]
+from = "/agenda/2018/festival-de-ribeauville/index.html"
+to = "/fr/agenda/2018/festival-de-ribeauville/"
+
+[[redirects]]
+from = "/agenda/2026/musik-plus/index.html"
+to = "/fr/agenda/2026/musik-plus/"
+
+[[redirects]]
+from = "/agenda/2022/zomer-van-sint-pieter-leuven/index.html"
+to = "/fr/agenda/2022/zomer-van-sint-pieter-leuven/"
+
+[[redirects]]
+from = "/agenda/2015/cite-de-la-voix-3/index.html"
+to = "/fr/agenda/2015/cite-de-la-voix-3/"
 
 [[redirects]]
 from = "/actualites/album/index.html"
 to = "/fr/actualites/album/"
 
 [[redirects]]
+from = "/agenda/2026/musique-baroque-a-savennieres/index.html"
+to = "/fr/agenda/2026/musique-baroque-a-savennieres/"
+
+[[redirects]]
+from = "/agenda/2016/06/index.html"
+to = "/fr/agenda/2016/06/"
+
+[[redirects]]
+from = "/agenda/2023/festival-dauvers-sur-oise/index.html"
+to = "/fr/agenda/2023/festival-dauvers-sur-oise/"
+
+[[redirects]]
+from = "/agenda/2021/ma-festival-brugge/index.html"
+to = "/fr/agenda/2021/ma-festival-brugge/"
+
+[[redirects]]
+from = "/agenda/2020/05/index.html"
+to = "/fr/agenda/2020/05/"
+
+[[redirects]]
+from = "/agenda/2025/index.html"
+to = "/fr/agenda/2025/"
+
+[[redirects]]
+from = "/agenda/2020/festival-musiques-vivantes/index.html"
+to = "/fr/agenda/2020/festival-musiques-vivantes/"
+
+[[redirects]]
+from = "/agenda/2018/theatre-de-caen/index.html"
+to = "/fr/agenda/2018/theatre-de-caen/"
+
+[[redirects]]
+from = "/agenda/2025/08/index.html"
+to = "/fr/agenda/2025/08/"
+
+[[redirects]]
+from = "/agenda/2023/les-musicales-de-redon/index.html"
+to = "/fr/agenda/2023/les-musicales-de-redon/"
+
+[[redirects]]
 from = "/lensemble/marie-lou-kazmierczak/index.html"
 to = "/fr/lensemble/marie-lou-kazmierczak/"
+
+[[redirects]]
+from = "/agenda/2025/festival-de-ribeauville/index.html"
+to = "/fr/agenda/2025/festival-de-ribeauville/"
+
+[[redirects]]
+from = "/agenda/2016/11/index.html"
+to = "/fr/agenda/2016/11/"
+
+[[redirects]]
+from = "/agenda/2023/espace-carpeaux/index.html"
+to = "/fr/agenda/2023/espace-carpeaux/"
 
 [[redirects]]
 from = "/organisations/chateau-soutard/index.html"
 to = "/fr/organisations/chateau-soutard/"
 
 [[redirects]]
+from = "/agenda/2025/rencontres-musicales-de-noyers/index.html"
+to = "/fr/agenda/2025/rencontres-musicales-de-noyers/"
+
+[[redirects]]
+from = "/agenda/2027/10/index.html"
+to = "/fr/agenda/2027/10/"
+
+[[redirects]]
+from = "/agenda/2024/zomer-van-sint-pieter/index.html"
+to = "/fr/agenda/2024/zomer-van-sint-pieter/"
+
+[[redirects]]
+from = "/agenda/2023/07/index.html"
+to = "/fr/agenda/2023/07/"
+
+[[redirects]]
+from = "/agenda/2022/les-concerts-de-vollore/index.html"
+to = "/fr/agenda/2022/les-concerts-de-vollore/"
+
+[[redirects]]
+from = "/agenda/2022/festival-europaischer-kirchenmusik/index.html"
+to = "/fr/agenda/2022/festival-europaischer-kirchenmusik/"
+
+[[redirects]]
+from = "/agenda/2020/index.html"
+to = "/fr/agenda/2020/"
+
+[[redirects]]
+from = "/agenda/2027/theatre-de-nature-du-bourgailh/index.html"
+to = "/en/agenda/2027/theatre-de-nature-du-bourgailh/"
+
+[[redirects]]
+from = "/agenda/2026/academie-bach-1/index.html"
+to = "/fr/agenda/2026/academie-bach-1/"
+
+[[redirects]]
+from = "/agenda/2025/09/index.html"
+to = "/fr/agenda/2025/09/"
+
+[[redirects]]
+from = "/agenda/2023/11/index.html"
+to = "/fr/agenda/2023/11/"
+
+[[redirects]]
+from = "/agenda/2015/index.html"
+to = "/fr/agenda/2015/"
+
+[[redirects]]
+from = "/agenda/2015/09/index.html"
+to = "/fr/agenda/2015/09/"
+
+[[redirects]]
+from = "/agenda/2020/09/index.html"
+to = "/fr/agenda/2020/09/"
+
+[[redirects]]
+from = "/agenda/2023/les-bords-de-scenes/index.html"
+to = "/fr/agenda/2023/les-bords-de-scenes/"
+
+[[redirects]]
+from = "/agenda/2022/hohenloher-kultursommer/index.html"
+to = "/fr/agenda/2022/hohenloher-kultursommer/"
+
+[[redirects]]
+from = "/agenda/2021/lumieres-du-baroque/index.html"
+to = "/fr/agenda/2021/lumieres-du-baroque/"
+
+[[redirects]]
+from = "/agenda/2016/centre-musical-international-j-s-bach/index.html"
+to = "/fr/agenda/2016/centre-musical-international-j-s-bach/"
+
+[[redirects]]
+from = "/agenda/2016/08/index.html"
+to = "/fr/agenda/2016/08/"
+
+[[redirects]]
 from = "/instruments/cistre-baroque/index.html"
 to = "/fr/lensemble/instruments/cistre-baroque/"
 
 [[redirects]]
+from = "/agenda/2018/10/index.html"
+to = "/fr/agenda/2018/10/"
+
+[[redirects]]
+from = "/agenda/2016/ccr-dominicains-de-haute-alsace/index.html"
+to = "/fr/agenda/2016/ccr-dominicains-de-haute-alsace/"
+
+[[redirects]]
+from = "/agenda/2022/12/index.html"
+to = "/fr/agenda/2022/12/"
+
+[[redirects]]
+from = "/agenda/2018/festival-vino-voce/index.html"
+to = "/fr/agenda/2018/festival-vino-voce/"
+
+[[redirects]]
+from = "/agenda/2026/04/index.html"
+to = "/fr/agenda/2026/04/"
+
+[[redirects]]
+from = "/agenda/2018/index.html"
+to = "/fr/agenda/2018/"
+
+[[redirects]]
+from = "/agenda/2026/claviers-dans-les-monts/index.html"
+to = "/fr/agenda/2026/claviers-dans-les-monts/"
+
+[[redirects]]
 from = "/organisations/cnm/index.html"
 to = "/fr/organisations/cnm/"
+
+[[redirects]]
+from = "/agenda/2017/index.html"
+to = "/fr/agenda/2017/"
+
+[[redirects]]
+from = "/agenda/2024/ma-region-virtuose-2/index.html"
+to = "/fr/agenda/2024/ma-region-virtuose-2/"
+
+[[redirects]]
+from = "/agenda/2017/internationale-handel-festspiele/index.html"
+to = "/fr/agenda/2017/internationale-handel-festspiele/"
+
+[[redirects]]
+from = "/agenda/2025/11/index.html"
+to = "/fr/agenda/2025/11/"
+
+[[redirects]]
+from = "/agenda/2023/la-courroie/index.html"
+to = "/fr/agenda/2023/la-courroie/"
+
+[[redirects]]
+from = "/agenda/2020/festival-au-gre-des-arts/index.html"
+to = "/fr/agenda/2020/festival-au-gre-des-arts/"
+
+[[redirects]]
+from = "/agenda/2024/le-bateau-feu/index.html"
+to = "/fr/agenda/2024/le-bateau-feu/"
 
 [[redirects]]
 from = "/projets/index.html"
@@ -159,8 +1439,112 @@ from = "/lensemble/instruments/cistre-rennaissance/index.html"
 to = "/fr/lensemble/instruments/cistre-rennaissance/"
 
 [[redirects]]
+from = "/agenda/2018/theatre-de-lalliance-francaise/index.html"
+to = "/fr/agenda/2018/theatre-de-lalliance-francaise/"
+
+[[redirects]]
+from = "/agenda/2024/labeaume-en-musiques/index.html"
+to = "/fr/agenda/2024/labeaume-en-musiques/"
+
+[[redirects]]
+from = "/agenda/2024/festival-de-cordes-sur-ciel/index.html"
+to = "/fr/agenda/2024/festival-de-cordes-sur-ciel/"
+
+[[redirects]]
+from = "/agenda/2023/theatre-de-lalliance-francaise/index.html"
+to = "/fr/agenda/2023/theatre-de-lalliance-francaise/"
+
+[[redirects]]
+from = "/agenda/2023/04/index.html"
+to = "/fr/agenda/2023/04/"
+
+[[redirects]]
+from = "/agenda/2025/festival-musiq3-brabant-wallon/index.html"
+to = "/fr/agenda/2025/festival-musiq3-brabant-wallon/"
+
+[[redirects]]
+from = "/agenda/2025/la-folle-journee-1/index.html"
+to = "/fr/agenda/2025/la-folle-journee-1/"
+
+[[redirects]]
+from = "/agenda/2016/index.html"
+to = "/fr/agenda/2016/"
+
+[[redirects]]
 from = "/lensemble/alix-boivert/actualites/index.html"
 to = "/fr/lensemble/alix-boivert/actualites/"
+
+[[redirects]]
+from = "/agenda/2021/04/index.html"
+to = "/fr/agenda/2021/04/"
+
+[[redirects]]
+from = "/agenda/2023/09/index.html"
+to = "/fr/agenda/2023/09/"
+
+[[redirects]]
+from = "/agenda/2027/festival-concerts-de-vollore/index.html"
+to = "/en/agenda/2027/festival-concerts-de-vollore/"
+
+[[redirects]]
+from = "/agenda/2026/la-folle-journee-de-nantes-4/index.html"
+to = "/fr/agenda/2026/la-folle-journee-de-nantes-4/"
+
+[[redirects]]
+from = "/agenda/2022/festival-la-folia/index.html"
+to = "/fr/agenda/2022/festival-la-folia/"
+
+[[redirects]]
+from = "/agenda/2021/festival-embaroquement-immediat/index.html"
+to = "/fr/agenda/2021/festival-embaroquement-immediat/"
+
+[[redirects]]
+from = "/agenda/2022/01/index.html"
+to = "/fr/agenda/2022/01/"
+
+[[redirects]]
+from = "/agenda/2026/schleswig-holstein-musik-festival-1/index.html"
+to = "/fr/agenda/2026/schleswig-holstein-musik-festival-1/"
+
+[[redirects]]
+from = "/agenda/2016/05/index.html"
+to = "/fr/agenda/2016/05/"
+
+[[redirects]]
+from = "/agenda/2024/auditorium-du-crr/index.html"
+to = "/fr/agenda/2024/auditorium-du-crr/"
+
+[[redirects]]
+from = "/agenda/2021/01/index.html"
+to = "/fr/agenda/2021/01/"
+
+[[redirects]]
+from = "/agenda/2022/les-concerts-en-valognais/index.html"
+to = "/fr/agenda/2022/les-concerts-en-valognais/"
+
+[[redirects]]
+from = "/agenda/2026/la-folle-journee-de-nantes-2/index.html"
+to = "/fr/agenda/2026/la-folle-journee-de-nantes-2/"
+
+[[redirects]]
+from = "/agenda/2025/chateau-1/index.html"
+to = "/fr/agenda/2025/chateau-1/"
+
+[[redirects]]
+from = "/agenda/2027/philharmonie/index.html"
+to = "/fr/agenda/2027/philharmonie/"
+
+[[redirects]]
+from = "/agenda/2016/festival-dambronay/index.html"
+to = "/fr/agenda/2016/festival-dambronay/"
+
+[[redirects]]
+from = "/agenda/2018/06/index.html"
+to = "/fr/agenda/2018/06/"
+
+[[redirects]]
+from = "/agenda/2017/abbaye-imperiale/index.html"
+to = "/fr/agenda/2017/abbaye-imperiale/"
 
 [[redirects]]
 from = "/lensemble/jean-christophe-morel/index.html"
@@ -171,32 +1555,188 @@ from = "/medias/index.html"
 to = "/fr/medias/"
 
 [[redirects]]
+from = "/agenda/2026/index.html"
+to = "/fr/agenda/2026/"
+
+[[redirects]]
+from = "/agenda/2023/bruchsaler-schlosskonzerte/index.html"
+to = "/fr/agenda/2023/bruchsaler-schlosskonzerte/"
+
+[[redirects]]
+from = "/agenda/2024/le-quartz/index.html"
+to = "/fr/agenda/2024/le-quartz/"
+
+[[redirects]]
+from = "/agenda/2023/ete-musical-de-dinan/index.html"
+to = "/fr/agenda/2023/ete-musical-de-dinan/"
+
+[[redirects]]
 from = "/agenda/programme/index.html"
 to = "/fr/agenda/programme/"
+
+[[redirects]]
+from = "/agenda/2023/12/index.html"
+to = "/fr/agenda/2023/12/"
 
 [[redirects]]
 from = "/instruments/index.html"
 to = "/fr/lensemble/instruments/"
 
 [[redirects]]
+from = "/agenda/2024/ma-region-virtuose-1/index.html"
+to = "/fr/agenda/2024/ma-region-virtuose-1/"
+
+[[redirects]]
 from = "/lensemble/instruments/index.html"
 to = "/fr/lensemble/instruments/"
+
+[[redirects]]
+from = "/agenda/2018/11/index.html"
+to = "/fr/agenda/2018/11/"
+
+[[redirects]]
+from = "/agenda/2017/festival-toulouse-les-orgues/index.html"
+to = "/fr/agenda/2017/festival-toulouse-les-orgues/"
 
 [[redirects]]
 from = "/lensemble/alix-boivert/index.html"
 to = "/fr/lensemble/alix-boivert/"
 
 [[redirects]]
+from = "/agenda/2027/rocher-de-palmer/index.html"
+to = "/fr/agenda/2027/rocher-de-palmer/"
+
+[[redirects]]
+from = "/agenda/2019/festival-du-comminges/index.html"
+to = "/fr/agenda/2019/festival-du-comminges/"
+
+[[redirects]]
+from = "/agenda/2025/lavoir-moderne/index.html"
+to = "/fr/agenda/2025/lavoir-moderne/"
+
+[[redirects]]
+from = "/agenda/2021/festival-de-sable/index.html"
+to = "/fr/agenda/2021/festival-de-sable/"
+
+[[redirects]]
+from = "/agenda/2027/index.html"
+to = "/fr/agenda/2027/"
+
+[[redirects]]
+from = "/agenda/2024/theatre-de-roanne/index.html"
+to = "/fr/agenda/2024/theatre-de-roanne/"
+
+[[redirects]]
+from = "/agenda/2017/04/index.html"
+to = "/fr/agenda/2017/04/"
+
+[[redirects]]
+from = "/agenda/2025/04/index.html"
+to = "/fr/agenda/2025/04/"
+
+[[redirects]]
+from = "/agenda/2019/festival-via-aeterna-1/index.html"
+to = "/fr/agenda/2019/festival-via-aeterna-1/"
+
+[[redirects]]
 from = "/lensemble/colin-heller/index.html"
 to = "/fr/lensemble/colin-heller/"
+
+[[redirects]]
+from = "/agenda/2021/festival-de-boucard/index.html"
+to = "/fr/agenda/2021/festival-de-boucard/"
+
+[[redirects]]
+from = "/agenda/2020/innsbrucker-festwochen-der-alten-musik/index.html"
+to = "/fr/agenda/2020/innsbrucker-festwochen-der-alten-musik/"
+
+[[redirects]]
+from = "/agenda/2023/01/index.html"
+to = "/fr/agenda/2023/01/"
+
+[[redirects]]
+from = "/agenda/2021/arsenal/index.html"
+to = "/fr/agenda/2021/arsenal/"
+
+[[redirects]]
+from = "/agenda/2022/festival-baroque-de-tarentaise-1/index.html"
+to = "/fr/agenda/2022/festival-baroque-de-tarentaise-1/"
+
+[[redirects]]
+from = "/agenda/2015/05/index.html"
+to = "/fr/agenda/2015/05/"
+
+[[redirects]]
+from = "/agenda/2022/04/index.html"
+to = "/fr/agenda/2022/04/"
+
+[[redirects]]
+from = "/agenda/2026/vochora/index.html"
+to = "/fr/agenda/2026/vochora/"
+
+[[redirects]]
+from = "/agenda/2026/schleswig-holstein-musik-festival/index.html"
+to = "/fr/agenda/2026/schleswig-holstein-musik-festival/"
+
+[[redirects]]
+from = "/agenda/2026/les-ondes-festival/index.html"
+to = "/fr/agenda/2026/les-ondes-festival/"
+
+[[redirects]]
+from = "/agenda/2016/rencontres-musicales-1/index.html"
+to = "/fr/agenda/2016/rencontres-musicales-1/"
+
+[[redirects]]
+from = "/agenda/2026/la-folle-journee-de-nantes-6/index.html"
+to = "/fr/agenda/2026/la-folle-journee-de-nantes-6/"
+
+[[redirects]]
+from = "/agenda/2021/12/index.html"
+to = "/fr/agenda/2021/12/"
+
+[[redirects]]
+from = "/agenda/2024/ma-region-virtuose-4/index.html"
+to = "/fr/agenda/2024/ma-region-virtuose-4/"
+
+[[redirects]]
+from = "/agenda/2026/festival-dobernai/index.html"
+to = "/fr/agenda/2026/festival-dobernai/"
+
+[[redirects]]
+from = "/agenda/2021/index.html"
+to = "/fr/agenda/2021/"
+
+[[redirects]]
+from = "/agenda/2023/jeudis-musicaux/index.html"
+to = "/fr/agenda/2023/jeudis-musicaux/"
 
 [[redirects]]
 from = "/lensemble/louis-capeille/index.html"
 to = "/fr/lensemble/louis-capeille/"
 
 [[redirects]]
+from = "/agenda/2023/festival-de-musique-en-bourbonnais/index.html"
+to = "/fr/agenda/2023/festival-de-musique-en-bourbonnais/"
+
+[[redirects]]
+from = "/agenda/2015/cite-de-la-voix-1/index.html"
+to = "/fr/agenda/2015/cite-de-la-voix-1/"
+
+[[redirects]]
+from = "/agenda/2026/festival-classique-des-hauderes/index.html"
+to = "/fr/agenda/2026/festival-classique-des-hauderes/"
+
+[[redirects]]
 from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/agenda/2022/index.html"
+to = "/fr/agenda/2022/"
+
+[[redirects]]
+from = "/agenda/2024/12/index.html"
+to = "/fr/agenda/2024/12/"
 
 [[redirects]]
 from = "/actualites/2026-11-15-passage-sur-france-musique/index.html"
@@ -207,30 +1747,334 @@ from = "/personnes/equipe-editoriale/index.html"
 to = "/fr/lensemble/equipe-editoriale/"
 
 [[redirects]]
+from = "/agenda/2024/festival-vibre/index.html"
+to = "/fr/agenda/2024/festival-vibre/"
+
+[[redirects]]
+from = "/agenda/2017/10/index.html"
+to = "/fr/agenda/2017/10/"
+
+[[redirects]]
+from = "/agenda/2020/festival-1001-notes-en-limousin/index.html"
+to = "/fr/agenda/2020/festival-1001-notes-en-limousin/"
+
+[[redirects]]
+from = "/agenda/2025/festival-de-lete-mosan/index.html"
+to = "/fr/agenda/2025/festival-de-lete-mosan/"
+
+[[redirects]]
+from = "/agenda/2022/musica-antica-a-magnano/index.html"
+to = "/fr/agenda/2022/musica-antica-a-magnano/"
+
+[[redirects]]
+from = "/agenda/2018/07/index.html"
+to = "/fr/agenda/2018/07/"
+
+[[redirects]]
+from = "/agenda/2024/chapelle-de-la-fac/index.html"
+to = "/fr/agenda/2024/chapelle-de-la-fac/"
+
+[[redirects]]
+from = "/agenda/2027/12/index.html"
+to = "/fr/agenda/2027/12/"
+
+[[redirects]]
 from = "/lensemble/programmes/index.html"
 to = "/fr/lensemble/programmes/"
+
+[[redirects]]
+from = "/agenda/2015/festival-chei/index.html"
+to = "/fr/agenda/2015/festival-chei/"
+
+[[redirects]]
+from = "/agenda/2023/larchipel/index.html"
+to = "/fr/agenda/2023/larchipel/"
 
 [[redirects]]
 from = "/lensemble/instruments/kontrabasharpa-1/index.html"
 to = "/fr/lensemble/instruments/kontrabasharpa-1/"
 
 [[redirects]]
+from = "/agenda/2024/03/index.html"
+to = "/fr/agenda/2024/03/"
+
+[[redirects]]
+from = "/agenda/2026/festival-vino-voce/index.html"
+to = "/fr/agenda/2026/festival-vino-voce/"
+
+[[redirects]]
+from = "/agenda/2019/festival-rheinvokal/index.html"
+to = "/fr/agenda/2019/festival-rheinvokal/"
+
+[[redirects]]
+from = "/agenda/2021/08/index.html"
+to = "/fr/agenda/2021/08/"
+
+[[redirects]]
+from = "/agenda/2016/01/index.html"
+to = "/fr/agenda/2016/01/"
+
+[[redirects]]
+from = "/agenda/2020/01/index.html"
+to = "/fr/agenda/2020/01/"
+
+[[redirects]]
 from = "/lensemble/programmes/rebellion/index.html"
 to = "/fr/lensemble/programmes/rebellion/"
+
+[[redirects]]
+from = "/agenda/2027/06/index.html"
+to = "/fr/agenda/2027/06/"
+
+[[redirects]]
+from = "/agenda/2020/chateau-carbonneau/index.html"
+to = "/fr/agenda/2020/chateau-carbonneau/"
+
+[[redirects]]
+from = "/agenda/2025/opera-comedie-1/index.html"
+to = "/fr/agenda/2025/opera-comedie-1/"
+
+[[redirects]]
+from = "/agenda/2026/11/index.html"
+to = "/fr/agenda/2026/11/"
+
+[[redirects]]
+from = "/agenda/2024/musique-esperance/index.html"
+to = "/fr/agenda/2024/musique-esperance/"
+
+[[redirects]]
+from = "/agenda/2024/concerts-classiques-depinal/index.html"
+to = "/fr/agenda/2024/concerts-classiques-depinal/"
+
+[[redirects]]
+from = "/lensemble/marine-easzy/index.html"
+to = "/fr/lensemble/marine-easzy/"
+
+[[redirects]]
+from = "/agenda/2024/royal-juillet-musical-de-saint-hubert/index.html"
+to = "/fr/agenda/2024/royal-juillet-musical-de-saint-hubert/"
+
+[[redirects]]
+from = "/agenda/2021/02/index.html"
+to = "/fr/agenda/2021/02/"
 
 [[redirects]]
 from = "/organisations/oara/index.html"
 to = "/fr/organisations/oara/"
 
 [[redirects]]
+from = "/agenda/2023/classique-au-large/index.html"
+to = "/fr/agenda/2023/classique-au-large/"
+
+[[redirects]]
+from = "/agenda/2025/les-musicales/index.html"
+to = "/fr/agenda/2025/les-musicales/"
+
+[[redirects]]
+from = "/fichiers/index.html"
+to = "/fr/fichiers/"
+
+[[redirects]]
+from = "/agenda/2017/les-concerts-danacreon/index.html"
+to = "/fr/agenda/2017/les-concerts-danacreon/"
+
+[[redirects]]
+from = "/agenda/2026/la-folle-journee-de-nantes/index.html"
+to = "/fr/agenda/2026/la-folle-journee-de-nantes/"
+
+[[redirects]]
+from = "/agenda/2025/05/index.html"
+to = "/fr/agenda/2025/05/"
+
+[[redirects]]
+from = "/agenda/2025/festival-de-chaillol-2/index.html"
+to = "/fr/agenda/2025/festival-de-chaillol-2/"
+
+[[redirects]]
+from = "/agenda/2024/rencontres-musicales/index.html"
+to = "/fr/agenda/2024/rencontres-musicales/"
+
+[[redirects]]
+from = "/agenda/2025/07/index.html"
+to = "/fr/agenda/2025/07/"
+
+[[redirects]]
+from = "/agenda/2019/12/index.html"
+to = "/fr/agenda/2019/12/"
+
+[[redirects]]
+from = "/agenda/2022/festival-voce-humana/index.html"
+to = "/fr/agenda/2022/festival-voce-humana/"
+
+[[redirects]]
+from = "/agenda/2026/06/index.html"
+to = "/fr/agenda/2026/06/"
+
+[[redirects]]
+from = "/agenda/2021/jeudis-musicaux/index.html"
+to = "/fr/agenda/2021/jeudis-musicaux/"
+
+[[redirects]]
+from = "/agenda/2022/10/index.html"
+to = "/fr/agenda/2022/10/"
+
+[[redirects]]
 from = "/lensemble/programmes/extradition/index.html"
 to = "/fr/lensemble/programmes/extradition/"
+
+[[redirects]]
+from = "/agenda/2025/quatuor-a-vendome/index.html"
+to = "/fr/agenda/2025/quatuor-a-vendome/"
+
+[[redirects]]
+from = "/agenda/2017/librairie-mollat/index.html"
+to = "/fr/agenda/2017/librairie-mollat/"
+
+[[redirects]]
+from = "/agenda/2022/opera-de-saint-etienne/index.html"
+to = "/fr/agenda/2022/opera-de-saint-etienne/"
+
+[[redirects]]
+from = "/agenda/2027/follejournee/index.html"
+to = "/en/agenda/2027/follejournee/"
+
+[[redirects]]
+from = "/agenda/2019/espace-james-chambaud/index.html"
+to = "/fr/agenda/2019/espace-james-chambaud/"
+
+[[redirects]]
+from = "/agenda/programme/extradition/index.html"
+to = "/fr/agenda/programme/extradition/"
 
 [[redirects]]
 from = "/lensemble/ilektra-platiopoulou/index.html"
 to = "/fr/lensemble/ilektra-platiopoulou/"
 
 [[redirects]]
+from = "/agenda/2022/08/index.html"
+to = "/fr/agenda/2022/08/"
+
+[[redirects]]
+from = "/agenda/2026/adagio-de-thionville/index.html"
+to = "/fr/agenda/2026/adagio-de-thionville/"
+
+[[redirects]]
+from = "/agenda/2017/06/index.html"
+to = "/fr/agenda/2017/06/"
+
+[[redirects]]
+from = "/agenda/programme/rebellion/index.html"
+to = "/fr/agenda/programme/rebellion/"
+
+[[redirects]]
+from = "/agenda/2026/01/index.html"
+to = "/fr/agenda/2026/01/"
+
+[[redirects]]
+from = "/agenda/2025/cite-de-la-voix-iorna/index.html"
+to = "/fr/agenda/2025/cite-de-la-voix-iorna/"
+
+[[redirects]]
+from = "/agenda/2017/12/index.html"
+to = "/fr/agenda/2017/12/"
+
+[[redirects]]
+from = "/agenda/2021/festival-de-musique-sacree-de-labbaye-de-sylvanes/index.html"
+to = "/fr/agenda/2021/festival-de-musique-sacree-de-labbaye-de-sylvanes/"
+
+[[redirects]]
+from = "/agenda/index.html"
+to = "/fr/agenda/"
+
+[[redirects]]
+from = "/agenda/2023/02/index.html"
+to = "/fr/agenda/2023/02/"
+
+[[redirects]]
+from = "/agenda/2023/basilique-saint-denis/index.html"
+to = "/fr/agenda/2023/basilique-saint-denis/"
+
+[[redirects]]
+from = "/agenda/2021/11/index.html"
+to = "/fr/agenda/2021/11/"
+
+[[redirects]]
+from = "/agenda/2026/09/index.html"
+to = "/fr/agenda/2026/09/"
+
+[[redirects]]
+from = "/agenda/2024/la-folle-journee/index.html"
+to = "/fr/agenda/2024/la-folle-journee/"
+
+[[redirects]]
+from = "/agenda/2026/05/index.html"
+to = "/fr/agenda/2026/05/"
+
+[[redirects]]
 from = "/agenda/2027/concert-sortie-cd/index.html"
 to = "/en/agenda/2027/concert-sortie-cd/"
+
+[[redirects]]
+from = "/agenda/2020/07/index.html"
+to = "/fr/agenda/2020/07/"
+
+[[redirects]]
+from = "/lensemble/quentin-viannais/index.html"
+to = "/fr/lensemble/quentin-viannais/"
+
+[[redirects]]
+from = "/agenda/2023/08/index.html"
+to = "/fr/agenda/2023/08/"
+
+[[redirects]]
+from = "/agenda/2026/festival-des-quatre-saisons/index.html"
+to = "/fr/agenda/2026/festival-des-quatre-saisons/"
+
+[[redirects]]
+from = "/agenda/2015/01/index.html"
+to = "/fr/agenda/2015/01/"
+
+[[redirects]]
+from = "/agenda/2024/festival-frisson-baroque/index.html"
+to = "/fr/agenda/2024/festival-frisson-baroque/"
+
+[[redirects]]
+from = "/agenda/2026/03/index.html"
+to = "/fr/agenda/2026/03/"
+
+[[redirects]]
+from = "/agenda/2016/09/index.html"
+to = "/fr/agenda/2016/09/"
+
+[[redirects]]
+from = "/agenda/2026/automne-musical-de-spa/index.html"
+to = "/fr/agenda/2026/automne-musical-de-spa/"
+
+[[redirects]]
+from = "/agenda/2024/08/index.html"
+to = "/fr/agenda/2024/08/"
+
+[[redirects]]
+from = "/agenda/2021/kulturfreunde-bayreuth/index.html"
+to = "/fr/agenda/2021/kulturfreunde-bayreuth/"
+
+[[redirects]]
+from = "/agenda/2022/07/index.html"
+to = "/fr/agenda/2022/07/"
+
+[[redirects]]
+from = "/agenda/2023/festival-les-supercheries/index.html"
+to = "/fr/agenda/2023/festival-les-supercheries/"
+
+[[redirects]]
+from = "/agenda/2022/salle-bellevue/index.html"
+to = "/fr/agenda/2022/salle-bellevue/"
+
+[[redirects]]
+from = "/agenda/2026/08/index.html"
+to = "/fr/agenda/2026/08/"
+
+[[redirects]]
+from = "/agenda/2022/weilburger-schlosskonzerte/index.html"
+to = "/fr/agenda/2022/weilburger-schlosskonzerte/"
 

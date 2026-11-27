@@ -3,7 +3,7 @@ title: Menu principal
 items:
 - title: agenda
   slug: agenda
-  target: "/agenda/"
+  target: "/fr/agenda/"
   kind: page
   new_tab: false
   children: []
@@ -13,7 +13,7 @@ items:
   file: content/fr/events/_index.html
 - title: actualités
   slug: actualites
-  target: "/actualites/"
+  target: "/fr/actualites/"
   kind: page
   new_tab: false
   children: []
@@ -23,7 +23,7 @@ items:
   file: content/fr/posts/_index.html
 - title: à propos
   slug: a-propos
-  target: "/lensemble/"
+  target: "/fr/lensemble/"
   kind: page
   new_tab: false
   children: []
@@ -32,7 +32,7 @@ items:
   file: content/fr/persons/_index.html
 - title: médias
   slug: medias
-  target: "/medias/"
+  target: "/fr/medias/"
   kind: page
   new_tab: false
   children: []
@@ -41,7 +41,7 @@ items:
   file: content/fr/pages/medias/_index.html
 - title: boutique
   slug: boutique
-  target: "/boutique/"
+  target: "/fr/boutique/"
   kind: page
   new_tab: false
   children: []
@@ -50,7 +50,7 @@ items:
   file: content/fr/pages/boutique/_index.html
 - title: contacts
   slug: contacts
-  target: "/contacts/"
+  target: "/fr/contacts/"
   kind: page
   new_tab: false
   children: []
