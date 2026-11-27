@@ -120,7 +120,7 @@ to = "/fr/agenda/2026/academie-bach/"
 
 [[redirects]]
 from = "/lensemble/programmes/sublimation/index.html"
-to = "/fr/apropos/programmes/sublimation/"
+to = "/fr/lensemble/programmes/sublimation/"
 
 [[redirects]]
 from = "/agenda/2019/06/index.html"
@@ -144,7 +144,7 @@ to = "/fr/actualites/2026-11-17-sortie-cd-rebellion/"
 
 [[redirects]]
 from = "/lensemble/programmes/indiscretion/index.html"
-to = "/fr/apropos/programmes/indiscretion/"
+to = "/fr/lensemble/programmes/indiscretion/"
 
 [[redirects]]
 from = "/agenda/2015/03/index.html"
@@ -183,10 +183,6 @@ from = "/agenda/2027/les-concerts-en-valognais/index.html"
 to = "/en/agenda/2027/les-concerts-en-valognais/"
 
 [[redirects]]
-from = "/fr/lensemble/programmes/rebellion/index.html"
-to = "/fr/apropos/programmes/rebellion/"
-
-[[redirects]]
 from = "/agenda/2022/temple-neuf/index.html"
 to = "/fr/agenda/2022/temple-neuf/"
 
@@ -209,10 +205,6 @@ to = "/fr/agenda/2026/musicalocean/"
 [[redirects]]
 from = "/agenda/2017/05/index.html"
 to = "/fr/agenda/2017/05/"
-
-[[redirects]]
-from = "/fr/lensemble/programmes/extradition/index.html"
-to = "/fr/apropos/programmes/extradition/"
 
 [[redirects]]
 from = "/agenda/2021/rheingau-musik-festival/index.html"
@@ -257,6 +249,10 @@ to = "/fr/agenda/2022/festival-musiques-en-ecrins/"
 [[redirects]]
 from = "/agenda/2022/06/index.html"
 to = "/fr/agenda/2022/06/"
+
+[[redirects]]
+from = "/fr/apropos/jean-christophe-morel/index.html"
+to = "/fr/lensemble/jean-christophe-morel/"
 
 [[redirects]]
 from = "/agenda/2025/les-jeudis-musicaux/index.html"
@@ -421,10 +417,6 @@ to = "/fr/agenda/2023/"
 [[redirects]]
 from = "/agenda/2020/rencontres-musicales-de-conques/index.html"
 to = "/fr/agenda/2020/rencontres-musicales-de-conques/"
-
-[[redirects]]
-from = "/fr/lensemble/alix-boivert/index.html"
-to = "/fr/apropos/alix-boivert/"
 
 [[redirects]]
 from = "/agenda/2015/theatre/index.html"
@@ -1059,10 +1051,6 @@ from = "/agenda/2015/12/index.html"
 to = "/fr/agenda/2015/12/"
 
 [[redirects]]
-from = "/fr/lensemble/jean-christophe-morel/index.html"
-to = "/fr/apropos/jean-christophe-morel/"
-
-[[redirects]]
 from = "/lensemble/sarah-van-oudenhove/index.html"
 to = "/fr/apropos/sarah-van-oudenhove/"
 
@@ -1077,6 +1065,10 @@ to = "/fr/agenda/2015/06/"
 [[redirects]]
 from = "/agenda/2019/05/index.html"
 to = "/fr/agenda/2019/05/"
+
+[[redirects]]
+from = "/fr/apropos/programmes/sublimation/index.html"
+to = "/fr/lensemble/programmes/sublimation/"
 
 [[redirects]]
 from = "/agenda/2027/11/index.html"
@@ -1435,6 +1427,10 @@ from = "/agenda/2026/04/index.html"
 to = "/fr/agenda/2026/04/"
 
 [[redirects]]
+from = "/fr/apropos/programmes/extradition/index.html"
+to = "/fr/lensemble/programmes/extradition/"
+
+[[redirects]]
 from = "/agenda/2018/index.html"
 to = "/fr/agenda/2018/"
 
@@ -1596,7 +1592,7 @@ to = "/fr/agenda/2017/abbaye-imperiale/"
 
 [[redirects]]
 from = "/lensemble/jean-christophe-morel/index.html"
-to = "/fr/apropos/jean-christophe-morel/"
+to = "/fr/lensemble/jean-christophe-morel/"
 
 [[redirects]]
 from = "/medias/index.html"
@@ -1652,7 +1648,7 @@ to = "/fr/agenda/2017/festival-toulouse-les-orgues/"
 
 [[redirects]]
 from = "/lensemble/alix-boivert/index.html"
-to = "/fr/apropos/alix-boivert/"
+to = "/fr/lensemble/alix-boivert/"
 
 [[redirects]]
 from = "/agenda/2027/rocher-de-palmer/index.html"
@@ -1783,6 +1779,10 @@ from = "/agenda/2026/festival-classique-des-hauderes/index.html"
 to = "/fr/agenda/2026/festival-classique-des-hauderes/"
 
 [[redirects]]
+from = "/fr/apropos/programmes/rebellion/index.html"
+to = "/fr/lensemble/programmes/rebellion/"
+
+[[redirects]]
 from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
 
@@ -1876,7 +1876,7 @@ to = "/fr/agenda/2020/01/"
 
 [[redirects]]
 from = "/lensemble/programmes/rebellion/index.html"
-to = "/fr/apropos/programmes/rebellion/"
+to = "/fr/lensemble/programmes/rebellion/"
 
 [[redirects]]
 from = "/agenda/2027/06/index.html"
@@ -1955,12 +1955,20 @@ from = "/agenda/2025/07/index.html"
 to = "/fr/agenda/2025/07/"
 
 [[redirects]]
+from = "/fr/apropos/programmes/indiscretion/index.html"
+to = "/fr/lensemble/programmes/indiscretion/"
+
+[[redirects]]
 from = "/agenda/2019/12/index.html"
 to = "/fr/agenda/2019/12/"
 
 [[redirects]]
 from = "/agenda/2022/festival-voce-humana/index.html"
 to = "/fr/agenda/2022/festival-voce-humana/"
+
+[[redirects]]
+from = "/fr/apropos/alix-boivert/index.html"
+to = "/fr/lensemble/alix-boivert/"
 
 [[redirects]]
 from = "/agenda/2026/06/index.html"
@@ -1976,7 +1984,7 @@ to = "/fr/agenda/2022/10/"
 
 [[redirects]]
 from = "/lensemble/programmes/extradition/index.html"
-to = "/fr/apropos/programmes/extradition/"
+to = "/fr/lensemble/programmes/extradition/"
 
 [[redirects]]
 from = "/agenda/2025/quatuor-a-vendome/index.html"
@@ -2004,7 +2012,7 @@ to = "/fr/agenda/programme/extradition/"
 
 [[redirects]]
 from = "/lensemble/ilektra-platiopoulou/index.html"
-to = "/fr/apropos/ilektra-platiopoulou/"
+to = "/fr/lensemble/ilektra-platiopoulou/"
 
 [[redirects]]
 from = "/agenda/2022/08/index.html"
@@ -2103,10 +2111,6 @@ from = "/agenda/2016/09/index.html"
 to = "/fr/agenda/2016/09/"
 
 [[redirects]]
-from = "/fr/lensemble/programmes/indiscretion/index.html"
-to = "/fr/apropos/programmes/indiscretion/"
-
-[[redirects]]
 from = "/agenda/2026/automne-musical-de-spa/index.html"
 to = "/fr/agenda/2026/automne-musical-de-spa/"
 
@@ -2141,8 +2145,4 @@ to = "/fr/agenda/2026/08/"
 [[redirects]]
 from = "/agenda/2022/weilburger-schlosskonzerte/index.html"
 to = "/fr/agenda/2022/weilburger-schlosskonzerte/"
-
-[[redirects]]
-from = "/fr/lensemble/programmes/sublimation/index.html"
-to = "/fr/apropos/programmes/sublimation/"
 
