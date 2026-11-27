@@ -21,8 +21,8 @@ items:
   html_class: menu-class-posts
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: à propos
-  slug: a-propos
+- title: l'ensemble
+  slug: l-ensemble
   target: "/fr/lensemble/"
   kind: page
   new_tab: false
