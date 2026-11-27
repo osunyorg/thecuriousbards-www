@@ -15,42 +15,222 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/organisations/harmonia-mundi/index.html"
+to = "/fr/organisations/harmonia-mundi/"
+
+[[redirects]]
+from = "/lensemble/programmes/sublimation/index.html"
+to = "/fr/lensemble/programmes/sublimation/"
+
+[[redirects]]
 from = "/actualites/2026-11-06-sortie-cd-rebellion/index.html"
-to = "/actualites/2026-11-17-sortie-cd-rebellion/"
+to = "/fr/actualites/2026-11-17-sortie-cd-rebellion/"
+
+[[redirects]]
+from = "/lensemble/programmes/indiscretion/index.html"
+to = "/fr/lensemble/programmes/indiscretion/"
+
+[[redirects]]
+from = "/organisations/adami/index.html"
+to = "/fr/organisations/adami/"
+
+[[redirects]]
+from = "/lensemble/sarah-dubus/index.html"
+to = "/fr/lensemble/sarah-dubus/"
+
+[[redirects]]
+from = "/contacts/index.html"
+to = "/fr/contacts/"
+
+[[redirects]]
+from = "/organisations/cite-de-la-voix/index.html"
+to = "/fr/organisations/cite-de-la-voix/"
+
+[[redirects]]
+from = "/actualites/2026-11-16-passage-sur-france-musique/index.html"
+to = "/fr/actualites/2026-11-16-passage-sur-france-musique/"
+
+[[redirects]]
+from = "/organisations/rema/index.html"
+to = "/fr/organisations/rema/"
 
 [[redirects]]
 from = "/personnes/index.html"
 to = "/lensemble/"
 
 [[redirects]]
+from = "/organisations/spedidam/index.html"
+to = "/fr/organisations/spedidam/"
+
+[[redirects]]
+from = "/expositions/archives-expositions/index.html"
+to = "/fr/expositions/archives-expositions/"
+
+[[redirects]]
+from = "/lensemble/instruments/cistre-baroque/index.html"
+to = "/fr/lensemble/instruments/cistre-baroque/"
+
+[[redirects]]
 from = "/instruments/cistre-rennaissance/index.html"
-to = "/lensemble/instruments/cistre-rennaissance/"
+to = "/fr/lensemble/instruments/cistre-rennaissance/"
+
+[[redirects]]
+from = "/actualites/2026-11-15-tournage-clip-avec-philippe-katerine/index.html"
+to = "/fr/actualites/2026-11-15-tournage-clip-avec-philippe-katerine/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/fr/organisations/"
 
 [[redirects]]
 from = "/instruments/hardingfele/index.html"
-to = "/lensemble/instruments/hardingfele/"
+to = "/fr/lensemble/instruments/hardingfele/"
+
+[[redirects]]
+from = "/lensemble/equipe-editoriale/index.html"
+to = "/fr/lensemble/equipe-editoriale/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/lensemble/sarah-van-oudenhove/index.html"
+to = "/fr/lensemble/sarah-van-oudenhove/"
+
+[[redirects]]
+from = "/actualites/2026-11-17-sortie-cd-rebellion/index.html"
+to = "/fr/actualites/2026-11-17-sortie-cd-rebellion/"
 
 [[redirects]]
 from = "/cistre-baroque/index.html"
-to = "/lensemble/instruments/cistre-baroque/"
+to = "/fr/lensemble/instruments/cistre-baroque/"
+
+[[redirects]]
+from = "/boutique/index.html"
+to = "/fr/boutique/"
+
+[[redirects]]
+from = "/organisations/fevis/index.html"
+to = "/fr/organisations/fevis/"
 
 [[redirects]]
 from = "/contact/index.html"
-to = "/contacts/"
+to = "/fr/contacts/"
+
+[[redirects]]
+from = "/lensemble/instruments/hardingfele/index.html"
+to = "/fr/lensemble/instruments/hardingfele/"
+
+[[redirects]]
+from = "/lensemble/albina-alba/index.html"
+to = "/fr/lensemble/albina-alba/"
+
+[[redirects]]
+from = "/lensemble/bruno-harle/index.html"
+to = "/fr/lensemble/bruno-harle/"
+
+[[redirects]]
+from = "/actualites/album/index.html"
+to = "/fr/actualites/album/"
+
+[[redirects]]
+from = "/lensemble/marie-lou-kazmierczak/index.html"
+to = "/fr/lensemble/marie-lou-kazmierczak/"
+
+[[redirects]]
+from = "/organisations/chateau-soutard/index.html"
+to = "/fr/organisations/chateau-soutard/"
 
 [[redirects]]
 from = "/instruments/cistre-baroque/index.html"
-to = "/lensemble/instruments/cistre-baroque/"
+to = "/fr/lensemble/instruments/cistre-baroque/"
+
+[[redirects]]
+from = "/organisations/cnm/index.html"
+to = "/fr/organisations/cnm/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/fr/projets/"
+
+[[redirects]]
+from = "/lensemble/instruments/cistre-rennaissance/index.html"
+to = "/fr/lensemble/instruments/cistre-rennaissance/"
+
+[[redirects]]
+from = "/lensemble/alix-boivert/actualites/index.html"
+to = "/fr/lensemble/alix-boivert/actualites/"
+
+[[redirects]]
+from = "/lensemble/jean-christophe-morel/index.html"
+to = "/fr/lensemble/jean-christophe-morel/"
+
+[[redirects]]
+from = "/medias/index.html"
+to = "/fr/medias/"
+
+[[redirects]]
+from = "/agenda/programme/index.html"
+to = "/fr/agenda/programme/"
 
 [[redirects]]
 from = "/instruments/index.html"
-to = "/lensemble/instruments/"
+to = "/fr/lensemble/instruments/"
+
+[[redirects]]
+from = "/lensemble/instruments/index.html"
+to = "/fr/lensemble/instruments/"
+
+[[redirects]]
+from = "/lensemble/alix-boivert/index.html"
+to = "/fr/lensemble/alix-boivert/"
+
+[[redirects]]
+from = "/lensemble/colin-heller/index.html"
+to = "/fr/lensemble/colin-heller/"
+
+[[redirects]]
+from = "/lensemble/louis-capeille/index.html"
+to = "/fr/lensemble/louis-capeille/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
 
 [[redirects]]
 from = "/actualites/2026-11-15-passage-sur-france-musique/index.html"
-to = "/actualites/2026-11-16-passage-sur-france-musique/"
+to = "/fr/actualites/2026-11-16-passage-sur-france-musique/"
 
 [[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
-to = "/lensemble/equipe-editoriale/"
+to = "/fr/lensemble/equipe-editoriale/"
+
+[[redirects]]
+from = "/lensemble/programmes/index.html"
+to = "/fr/lensemble/programmes/"
+
+[[redirects]]
+from = "/lensemble/instruments/kontrabasharpa-1/index.html"
+to = "/fr/lensemble/instruments/kontrabasharpa-1/"
+
+[[redirects]]
+from = "/lensemble/programmes/rebellion/index.html"
+to = "/fr/lensemble/programmes/rebellion/"
+
+[[redirects]]
+from = "/organisations/oara/index.html"
+to = "/fr/organisations/oara/"
+
+[[redirects]]
+from = "/lensemble/programmes/extradition/index.html"
+to = "/fr/lensemble/programmes/extradition/"
+
+[[redirects]]
+from = "/lensemble/ilektra-platiopoulou/index.html"
+to = "/fr/lensemble/ilektra-platiopoulou/"
+
+[[redirects]]
+from = "/agenda/2027/concert-sortie-cd/index.html"
+to = "/en/agenda/2027/concert-sortie-cd/"
 
