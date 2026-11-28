@@ -83,6 +83,10 @@ from = "/agenda/2023/10/index.html"
 to = "/fr/agenda/2023/10/"
 
 [[redirects]]
+from = "/agenda/programme/iorna/index.html"
+to = "/fr/agenda/programme/iorna/"
+
+[[redirects]]
 from = "/agenda/2017/07/index.html"
 to = "/fr/agenda/2017/07/"
 
@@ -431,6 +435,10 @@ from = "/agenda/2021/10/index.html"
 to = "/fr/agenda/2021/10/"
 
 [[redirects]]
+from = "/lensemble/index.html"
+to = "/fr/lensemble/"
+
+[[redirects]]
 from = "/agenda/2027/follejournee-2/index.html"
 to = "/en/agenda/2027/follejournee-2/"
 
@@ -476,7 +484,7 @@ to = "/fr/agenda/2023/promenades-musicales-en-pays-dauge/"
 
 [[redirects]]
 from = "/personnes/index.html"
-to = "/lensemble/"
+to = "/fr/lensemble/"
 
 [[redirects]]
 from = "/agenda/2024/01/index.html"
